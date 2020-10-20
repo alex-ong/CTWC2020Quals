@@ -5,12 +5,13 @@ twitch-dl download -q source https://www.twitch.tv/videos/768602680
 twitch-dl download -q source https://www.twitch.tv/videos/769577402
 twitch-dl download -q source https://www.twitch.tv/videos/769832502
 twitch-dl download -q source https://www.twitch.tv/videos/769851793
-twitch-dl download -q source http://www.twitch.tv/totalradnes/v/769657530
+twitch-dl download -q source https://www.twitch.tv/videos/769657530
 twitch-dl download -q source https://www.twitch.tv/videos/770409436
 twitch-dl download -q source https://www.twitch.tv/videos/770708664
 twitch-dl download -q source https://www.twitch.tv/videos/771012810
 twitch-dl download -q source https://www.twitch.tv/videos/771031009
 twitch-dl download -q source https://www.twitch.tv/videos/771435987
+youtube-dl https://www.youtube.com/watch?v=4-2CJhJ8-G8&feature=youtu.be
 twitch-dl download -q source https://www.twitch.tv/videos/772212527
 twitch-dl download -q source https://www.twitch.tv/videos/772340179
 twitch-dl download -q source https://www.twitch.tv/videos/772615042
@@ -30,11 +31,10 @@ twitch-dl download -q source https://www.twitch.tv/videos/773824370
 twitch-dl download -q source https://www.twitch.tv/videos/773191094
 twitch-dl download -q source https://www.twitch.tv/videos/774220853
 twitch-dl download -q source https://www.twitch.tv/videos/774490658
-twitch-dl download -q source http://www.twitch.tv/daasiann_/v/774542400
+twitch-dl download -q source https://www.twitch.tv/videos/774542400
 twitch-dl download -q source https://www.twitch.tv/videos/774417049
-twitch-dl download -q source https://www.twitch.tv/brodindamp/v/773670224
+twitch-dl download -q source https://www.twitch.tv/videos/773670224
 twitch-dl download -q source https://www.twitch.tv/videos/774633128
-twitch-dl download -q source https://www.twitch.tv/supasayajin/v/774603047
+twitch-dl download -q source https://www.twitch.tv/videos/774603047
 twitch-dl download -q source https://www.twitch.tv/videos/774612871
-twitch-dl download -q source https://www.twitch.tv/nubbinsgoody/v/769412565
-youtube-dl https://www.youtube.com/watch?v=4-2CJhJ8-G8
+twitch-dl download -q source https://www.twitch.tv/videos/769412565

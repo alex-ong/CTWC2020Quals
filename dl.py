@@ -1,5 +1,5 @@
 
-with open('peasants.txt') as f:
+with open('downloads.txt') as f:
     for line in f:
         items = eval(line)
         url = items[1]

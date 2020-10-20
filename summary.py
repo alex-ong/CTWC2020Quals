@@ -144,12 +144,42 @@ class Qualifier:
                f"Games:\n" + 
                game_str)
     
-
+def load_player_vid_map():
+    result = {}
+    with open("maxer-videos.txt") as f:
+        for line in f:
+            items = eval(line)
+            print(items)
+            result[items[0].lower()] = items[3].lower()
+    return result
+    
+def generate_timestamp(data):
+    h,m,s = data
+    h = int(h)
+    m = int(m)
+    s = int(s)
+    s -= 5
+    if s < 0:
+        s += 60
+        m -= 1
+    if m < 0:
+        m += 60
+        h -= 1
+    if h < 0:
+        h = 0
+        m = 0
+        s = 0
+    return ("%02d" % h +":"+
+           "%02d" % m +":"+
+           "%02d" % s)
+        
+VIDEO_ROOT = "T:/ctwc-qual/maxers/"
 if __name__ == '__main__':
     data = {}
     with open("qualifier.json") as f:
         data = json.load(f)
-
+    video_map = load_player_vid_map()
+    
     quals = []
         
     for item in data["messages"]:
@@ -163,14 +193,14 @@ if __name__ == '__main__':
     to_download = []
     num_max = 0
     quals.sort(key=lambda x: x.games[0].score, reverse=True)
-    for qual in quals:
-        if qual.vod is None or len(qual.vod) < 10 or len(qual.games) == 0:
-            print ("SHIT")
-            print(qual)
-            input()
-        if len(qual.games) >= 1 and qual.games[0].score != 999999:            
-            data = (qual.twitch, qual.vod, qual.games[0].score)            
-            print (data)
+    for qual in quals:        
+        for i, game in enumerate(qual.games):
+            if game.score == 999999:
+                qual.video = VIDEO_ROOT + video_map[qual.twitch.lower()]
+                timestamp = generate_timestamp(game.timestamp)
+                print (f"ffmpeg -i {qual.video} -ss {timestamp} -t 600 -c:v copy {VIDEO_ROOT}{qual.twitch}{i+1}.mp4")
+            else:
+                break
         
     
         

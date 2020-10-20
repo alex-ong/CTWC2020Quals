@@ -2132,7 +2132,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD: \u003Chttps://www.twitch.tv/videos/774220853?t=00h26m21s\u003E \n\u003Chttps://www.twitch.tv/videos/774254869\u003E \n\u003Chttps://www.twitch.tv/videos/774273599\u003E \n(I had internet problems the first 20 min. The first VOD has setup and verification, 2nd Vod has 2nd start at -1:55:00, and the start of the maxout game, 3rd VOD has all the maxouts and the kicker)\nName: Jesper\nTwitch: TegaMech\nSubmitting games:\n999,999 - 00h04m50s\n999,999 - 00h38m52s\n999,999 - 01h11m51s\n931,754 - 01h24m03s",
+      "content": "VOD: https://www.twitch.tv/videos/774273599\n(I had internet problems the first 20 min. The first VOD has setup and verification, 2nd Vod has 2nd start at -1:55:00, and the start of the maxout game, 3rd VOD has all the maxouts and the kicker)\nName: Jesper\nTwitch: TegaMech\nSubmitting games:\n999,999 - 00h04m50s\n999,999 - 00h38m52s\n999,999 - 01h11m51s\n931,754 - 01h24m03s",
       "author": {
         "id": "95204045379080192",
         "name": "MegaTech",
