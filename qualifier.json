@@ -1,0 +1,3113 @@
+{
+  "guild": {
+    "id": "751274830363623424",
+    "name": "CTWC",
+    "iconUrl": "https://cdn.discordapp.com/icons/751274830363623424/43b465fbdd5443ef18395c73dc5d9897.png"
+  },
+  "channel": {
+    "id": "765247242671489064",
+    "type": "GuildTextChat",
+    "category": "CTWC 2020",
+    "name": "qualifier-submissions",
+    "topic": "Check the pinned message for information"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [    
+    {
+      "id": "765251121693720586",
+      "type": "Default",
+      "timestamp": "2020-10-12T16:34:45.09+00:00",
+      "timestampEdited": "2020-10-12T17:23:54.805+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/768213462\nName : -JJ\nTwitch : TerhoA\nSubmitting Games:\n688 782 - 01h22m40s\n618 288 - 00h43m20s\n608 583 - 01h50m50s",
+      "author": {
+        "id": "433723442106466304",
+        "name": "-JJ / TetrisSuomi",
+        "discriminator": "4888",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/433723442106466304/cbd170af509e3146eb1000e0e5915437.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765271388276654110",
+      "type": "Default",
+      "timestamp": "2020-10-12T17:55:17.02+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768200092\nName: Hydrant\nTwitch: HydrantDude\nSubmitting Games:\n924 800 - 1h31m41s (accidental pause on lvl 25, caused misdrop and killed maxout)\n856 700 - 2h00m55s\n843 580 - 1h10m13s (accidental pause at 111 lines)",
+      "author": {
+        "id": "270605669688803329",
+        "name": "HydrantDude",
+        "discriminator": "2048",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270605669688803329/a_c6c28623a33248790e6f296336ecbfbc.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765276480086605845",
+      "type": "Default",
+      "timestamp": "2020-10-12T18:15:31.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768272989\nName: Jake B.\nTwitch: Jakegames2\nSubmitting Games:\n999 999 - 00h 08m 15s\n999 999 - 00h 36m 05s\n999 999 - 00h 44m 20s\n999 999 - 01h 28m 18s\n999 999 - 01h 56m 46s\n995 660 - 01h 01m 45s",
+      "author": {
+        "id": "178714383302656002",
+        "name": "Jakegames2",
+        "discriminator": "6276",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/178714383302656002/b28875492fad092e1ac74e9b4220188d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765345958866190387",
+      "type": "Default",
+      "timestamp": "2020-10-12T22:51:36.034+00:00",
+      "timestampEdited": "2020-10-14T16:46:18.688+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768505622\nName: Nolan\nTwitch: 0eggmaster0\n999 999 - 02h 18m 28s\n926 860 - 00h 24m 58s\n910,093 - 00h 58m 24s",
+      "author": {
+        "id": "641059595925848064",
+        "name": "eggmaster",
+        "discriminator": "3750",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/641059595925848064/c5bb663028782bb967b5137b629f3c3e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765347649510440960",
+      "type": "Default",
+      "timestamp": "2020-10-12T22:58:19.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768556247\nName: bsg4000\nTwitch: bsg4000\nSubmitting Game:\n393,200 - 1:38:55\nLast place let\u0027s go!",
+      "author": {
+        "id": "84469225158082560",
+        "name": "BSG4000",
+        "discriminator": "5980",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/84469225158082560/62369582e239d068eb6998ddf19cdccf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765355786863509534",
+      "type": "Default",
+      "timestamp": "2020-10-12T23:30:39.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768406619\nName: dog\nTwitch: dogplayingtetris\nSubmitting Games:\n999 999 - 03h 40m 22s\n999 999 - 03h 49m 01s\n999 999 - 03h 57m 50s\n999 999 - 04h 07m 13s\n999 999 - 04h 16m 18s\n999 999 - 04h 42m 20s\n979 662 (RESET) - 03h 31m 58s\n960 905 - 03h 21m 20s",
+      "author": {
+        "id": "640319562184785942",
+        "name": "dog",
+        "discriminator": "1988",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/640319562184785942/e3f1d3fa9264dd520d8c269895658a40.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765364238838530088",
+      "type": "Default",
+      "timestamp": "2020-10-13T00:04:14.319+00:00",
+      "timestampEdited": "2020-10-13T22:00:57.526+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768602680\nName: Huff\nTwitch: huffulufugus_\nSubmitting Games:\n999 999 - 01h 50m 5s\n999 999 - 01h 58m 57s\n984 431 - 01h 26m 05s",
+      "author": {
+        "id": "233729731965485056",
+        "name": "Huffulufugus",
+        "discriminator": "9207",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/233729731965485056/0f29fe1e901e814ce97fd6393460dc0a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765364971722768434",
+      "type": "Default",
+      "timestamp": "2020-10-13T00:07:09.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768296933\nName: betastrep\nTwitch: betastrep\nSubmitted games:\n648 127 - 01h 11m 44s\n641 224 - 01h 30m 54s\n580 262 - 0h 40m 17s",
+      "author": {
+        "id": "395744308113702913",
+        "name": "betastrep",
+        "discriminator": "7235",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395744308113702913/0ed8e0a7ed1766acf51ffd53b4b64598.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765368486766575636",
+      "type": "Default",
+      "timestamp": "2020-10-13T00:21:07.104+00:00",
+      "timestampEdited": "2020-10-14T01:49:53.643+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768627133\nName: Peyton\nTwitch: jedipeyton11\nSubmitted games:\n570 520 - 01 h 09m 52s\n512 220 -  00h 20m 13s\n495 300 -  01h 45m 23s",
+      "author": {
+        "id": "192844800146276352",
+        "name": "peyton",
+        "discriminator": "1996",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/192844800146276352/0891be3220df312bccc14e2f0e5938cd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765379916002230282",
+      "type": "Default",
+      "timestamp": "2020-10-13T01:06:32.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768654562\nName: Keith\nTwitch: Citricice\nSubmitted Games:\n898,194 - 01h 13m 24s\n843,761 - 01h 36m 17s\n817,112 - 02h 04m 19s",
+      "author": {
+        "id": "263839294748098562",
+        "name": "CitricIce",
+        "discriminator": "9541",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765386959706783752",
+      "type": "Default",
+      "timestamp": "2020-10-13T01:34:31.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/768676681\nName: Ryan W\nTwitch: Wolflord2005\nSubmitted Games:\n420,821 - 02h 08m 34s\n408,170 - 00h 53m 05s\n392,690 - 01h 22m 31s",
+      "author": {
+        "id": "266713447591444482",
+        "name": "Wolflord2005",
+        "discriminator": "4326",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266713447591444482/ea26a30c355dff3a1ef2ff1fdad560dd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765607453324607518",
+      "type": "Default",
+      "timestamp": "2020-10-13T16:10:41.171+00:00",
+      "timestampEdited": "2020-10-14T23:29:41.181+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: \u003Chttps://www.twitch.tv/videos/769102990\u003E\nName: SirMaser\nTwitch: SirMaser\nSubmitted Games: \n295,340 - 01h 33m 43s\n229,260 - 01h 20m 06s\n191,520 - 01h 16m 02s",
+      "author": {
+        "id": "257532136045805569",
+        "name": "Frank (SirMaser\uD83C\uDF33)",
+        "discriminator": "7316",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/257532136045805569/e4b4ddfcc250a154806959548faab25a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765638397325738004",
+      "type": "Default",
+      "timestamp": "2020-10-13T18:13:38.796+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/769212826\nName: BWG Oeuf\nTwitch: OeufMeansEgg\nSubmitted Games:\n912,389 - times will be here soon\n709,081 - \n586,144 -",
+      "author": {
+        "id": "318164659251445761",
+        "name": "OeufMeansEgg",
+        "discriminator": "0900",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318164659251445761/a4ced4a7c81387b4489ab7846d331bbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765731892913373214",
+      "type": "Default",
+      "timestamp": "2020-10-14T00:25:09.881+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/769557866\nName: Jordan\nTwitch: smoljordan\nSubmitted Games: \n954,740 - 00h 8m 30s\n818,680 - 01h 47m 13s\n809,580 - 00h 47m 20s",
+      "author": {
+        "id": "236566052790730753",
+        "name": "Jordan",
+        "discriminator": "0031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/236566052790730753/41e45e238d6c29396262a411eb8077a9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765746685913333770",
+      "type": "Default",
+      "timestamp": "2020-10-14T01:23:56.807+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/769217337\nName: Anna D\nTwitch: VinesandWillows\nSubmitted Games:\n850,832 - 01h 19m 50s\n649,181 - 00h 53m 20s\n614,592 - 00h 43m 57s",
+      "author": {
+        "id": "185213358377664512",
+        "name": "VinesandWillows",
+        "discriminator": "9450",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185213358377664512/7f5427713d7e100844c059f43317a34b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765763710450794506",
+      "type": "Default",
+      "timestamp": "2020-10-14T02:31:35.773+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/769662478\nName: Joey Parker\nTwitch: indierocker81\nSubmitted Games:\n758,008 - 28:35\n749,549 - 35:50\n639,230 - 1:20:49",
+      "author": {
+        "id": "397954546451873803",
+        "name": "indierocker81",
+        "discriminator": "3724",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397954546451873803/ae6fcc6c376388dea6d431bb68ff69d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765764558803173406",
+      "type": "Default",
+      "timestamp": "2020-10-14T02:34:58.036+00:00",
+      "timestampEdited": "2020-10-14T21:58:00.53+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/769608715\nName: Noel\nTwitch: The1stNoel\nSubmitted Games: \n872,420 - 00h 48m 57s (NOTE: game crashed! potential 940k missed D:)\n832,620 - 01h 19m 27s\n664,880 - 00h 40m 55s",
+      "author": {
+        "id": "163012838284197889",
+        "name": "The1stNoel",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/163012838284197889/0e9ec5b399f64fc4084382c1daf7c528.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765779679382470668",
+      "type": "Default",
+      "timestamp": "2020-10-14T03:35:03.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/769577402\nName: PixelAndy\nTwitch: P1xelAndy\nSubmitted Games:\n999 999 - 00h 29m 50s\n999 999 - 00h 47m 26s\n999 999 - 00h 57m 46s\n999 999 - 01h 07m 27s\n999 999 - 01h 27m 47s\n999 999 - 02h 04m 30s\n924 396 - 01h 37m 07s",
+      "author": {
+        "id": "329431559969177602",
+        "name": "PixelAndy",
+        "discriminator": "5138",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/329431559969177602/49281ee8b3c82290199953b1db48191e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765786617607618580",
+      "type": "Default",
+      "timestamp": "2020-10-14T04:02:37.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/769748694\nName: Ryen\nTwitch: RyenwithanE\nSubmitted games: \n495308 at 1:17:23\n493534 at 55:45\n418229 at 23:37",
+      "author": {
+        "id": "668294266497269790",
+        "name": "RyenwithanE",
+        "discriminator": "0525",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/668294266497269790/c5af41ba172f8b1d120f534c46eb7d0c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765790251880153098",
+      "type": "Default",
+      "timestamp": "2020-10-14T04:17:03.743+00:00",
+      "timestampEdited": "2020-10-14T04:18:27.742+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alden_combs Today at 10:00 PM\nVOD: https://www.twitch.tv/videos/769781332\nName: Alden Combs\nTwitch: alden_combs\nSubmitted Games:\n498,680 - 25:00\n529,720 - 40:00\n431,140 - 1:00:00",
+      "author": {
+        "id": "743891356979691531",
+        "name": "Alden",
+        "discriminator": "6309",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/743891356979691531/ff16c7a9d7f6cb949f6b276e5279f6d4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765823155411222538",
+      "type": "Default",
+      "timestamp": "2020-10-14T06:27:48.556+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/769832502\nName : Koryan\nTwitch : vst_koryan\nSubmitting Games :\n999 999 - 0h 36m 25s\n999 999 - 0h 54m 29s\n999 999 - 1h 26m 25s\n982 460 - 1h 49m 12s",
+      "author": {
+        "id": "233274762711924737",
+        "name": "vst_koryan",
+        "discriminator": "3850",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/233274762711924737/cdae70df1b3bf42c50d4a2a5d6469c20.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765833738587996191",
+      "type": "Default",
+      "timestamp": "2020-10-14T07:09:51.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/769851793\nName : Nenu\nTwitch : ZefanyaNenu\nSubmitted Games :\n999 999 - 0h 12m 27s\n999 999 - 0h 25m 53s\n999 999 - 0h 59m 28s\n999 999 - 1h 14m 31s\n999 999 - 1h 32m 40s\n935 340 - 1h 23m 19s",
+      "author": {
+        "id": "357148524024168450",
+        "name": "Nenu Zefanya",
+        "discriminator": "9438",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357148524024168450/67fa43accc1946916fbbc268d93e968e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765958079325012038",
+      "type": "Default",
+      "timestamp": "2020-10-14T15:23:56.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttp://www.twitch.tv/totalradnes/v/769657530\nName: Quaid\nTwitch: TotalRadNES\nSubmitting Games:\n999 999 - 03h 01m 55s\n984 581 - 02h 32m 15s\n950 866 - 01h 15m 35s",
+      "author": {
+        "id": "757768654489255956",
+        "name": "Quaid",
+        "discriminator": "6620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757768654489255956/a1cce72a128c4f77b509c9e196fe6fff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "765977209038045255",
+      "type": "Default",
+      "timestamp": "2020-10-14T16:39:57.803+00:00",
+      "timestampEdited": "2020-10-15T17:14:47.635+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Note: Judge submitting here for player; player submitted info via SMS. Also thanks to @Mitolex and @Wingfryer for help in identifying the second score!)\nVOD: https://www.twitch.tv/videos/769482324\nName: Elijah\nTwitch: Elijahn5\nSubmitted Games:\n779 618 - 01h 24m 31s\n741 990 - 01h 43m 31s\n676 993 - 00h 36m 49s",
+      "author": {
+        "id": "524279948408651776",
+        "name": "higgins",
+        "discriminator": "3176",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/524279948408651776/0b6e1f4e41ba49b4b2308f2437108bc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766032593920983060",
+      "type": "Default",
+      "timestamp": "2020-10-14T20:20:02.588+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/770393293\nName: Svavar\nTwitch: sneikarmokko\nSubmitted games:\n965 380 - 00h 44m 41s\n949 749 - 01h 16m 00s\n939 480 - 00h 53m 41s",
+      "author": {
+        "id": "387666065561354240",
+        "name": "Svavar",
+        "discriminator": "3068",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766070400714014730",
+      "type": "Default",
+      "timestamp": "2020-10-14T22:50:16.43+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/770515154\nName : Trey\nTwitch : treylorswift\nSubmitting Games : \n909,313 - 01:46:36\n877,970 - 00:42:11\n780,880 - 00:22:39",
+      "author": {
+        "id": "515960088180162581",
+        "name": "treylorswift",
+        "discriminator": "9359",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/515960088180162581/47364e1a337fbf71a58c9478454c29eb.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766074172081831957",
+      "type": "Default",
+      "timestamp": "2020-10-14T23:05:15.594+00:00",
+      "timestampEdited": "2020-10-14T23:06:41.898+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/770376131\nName : Chris\nTwitch : CBrady79\nSubmitting Games : 692,583 (1:28:06); 692,495 (59:50); 690,073 (1:20:31)",
+      "author": {
+        "id": "756399374204010516",
+        "name": "CSBrady",
+        "discriminator": "4691",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756399374204010516/767c55924d8a7333f4eb644756698b82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766075414329819176",
+      "type": "Default",
+      "timestamp": "2020-10-14T23:10:11.769+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/770409436\nName : Harrison\nTwitch : redshurt\nSubmitting Games : \n999,999 - 00:36:30\n944,820 - 00:25:53\n853,540 - 02:07:57",
+      "author": {
+        "id": "254121313856126978",
+        "name": "RedShurt",
+        "discriminator": "1048",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254121313856126978/533f9c48e9de7276e3dcfb11d05d850a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766139124347699222",
+      "type": "Default",
+      "timestamp": "2020-10-15T03:23:21.421+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/770515338\nName: Matt S (Matt Sengbusch)\nTwitch: SmallChangeArcade\nSubmitting Games:\n641,920 - 00:29:30\n519,835 - 00:16:55\n515,171 - 00:51:07",
+      "author": {
+        "id": "534109160854519809",
+        "name": "Small Change Arcade",
+        "discriminator": "9984",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/534109160854519809/18160f3e144f9b98b3c6f707207cd4d8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766149652084293634",
+      "type": "Default",
+      "timestamp": "2020-10-15T04:05:11.429+00:00",
+      "timestampEdited": "2020-10-15T04:06:18.462+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/770394203\nName : Barrett\nTwitch : 3arrett\nSubmitting Games :\n655,540 - 01:38:51\n640,540 - 00:35:00\n631,980 - 01:48:02",
+      "author": {
+        "id": "405066979615965194",
+        "name": "3arrett",
+        "discriminator": "4253",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405066979615965194/156c554a062801b424f61c4696b308fe.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766154121974906932",
+      "type": "Default",
+      "timestamp": "2020-10-15T04:22:57.134+00:00",
+      "timestampEdited": "2020-10-15T04:23:28.771+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/770708664\nName : Radmir\nTwitch : Radmirrrrr\nSubmitting Games :\n999 999 - 01h 34m 31s\n868 175 - 01h 18m 55s\n811 900 - 00h 31m 32s",
+      "author": {
+        "id": "689500643169271911",
+        "name": "Radmir",
+        "discriminator": "1162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689500643169271911/a94d7d40514ac559662e58010ead0fb0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766165089485062145",
+      "type": "Default",
+      "timestamp": "2020-10-15T05:06:31.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/770744698\nName: Packie\nTwitch: packie619\nSubmitting Games:\n847130 - 00h 39m 05s(Some frames dropped at the start of this run \u0026 during.)\n780284 - 01h 39m 10s\n663205 - 01h 22m 15s\n(Audio and video are a little out of sync.  All about that potato life)",
+      "author": {
+        "id": "79031118078156800",
+        "name": "Packie",
+        "discriminator": "8024",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766275461080678420",
+      "type": "Default",
+      "timestamp": "2020-10-15T12:25:06.631+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/mobuco/v/770537138\nName: Buuucoooo\nTwitch: mobuco\nSubmitting Games:\n894 474 - 01h 18m 25s\n640 347 - 01h 06m 25s\n621 887 - 00h 47m 15s",
+      "author": {
+        "id": "350438660291821578",
+        "name": "mobuco",
+        "discriminator": "2160",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/350438660291821578/3686b145d2cfb7e25f1f40f628b3a686.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766290512847437844",
+      "type": "Default",
+      "timestamp": "2020-10-15T13:24:55.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/neighlles/v/770328187\nName: neighlles\nTwitch: neighlles\nSubmitting Games:\n877 640 - 02h 10m 25s\n784 320 - 01h 12m 46s\n748 420 - 02h 01m 00s",
+      "author": {
+        "id": "152934458155204609",
+        "name": "neighlles",
+        "discriminator": "0699",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766321533152919593",
+      "type": "Default",
+      "timestamp": "2020-10-15T15:28:11.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771012810\nName: Phillip\nTwitch: LaZer0MonKey\n999 999 - 01h55m27s\n982 380 - 02h05m02s\n927 095 - 01h19m20s",
+      "author": {
+        "id": "479801659606958090",
+        "name": "Phillip Lewicki",
+        "discriminator": "3593",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/479801659606958090/c035cce88979b59a3259f1b9edb50eb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766342137713131521",
+      "type": "Default",
+      "timestamp": "2020-10-15T16:50:03.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771031009\nName: Breandan\nTwitch:bv_09\n999 999 - 0h 48m 14s\n999 999 - 1h 18m 47s\n999 999 - 1h 36m 07s\n999 999 - 1h 54m 00s\n999 999 - 2h 22m 28s\n907 782 - 1h 03m 28s",
+      "author": {
+        "id": "537758689692614676",
+        "name": "bv_09",
+        "discriminator": "5431",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/537758689692614676/7a3acf97de0ff8a613c12e6db1925ccb.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766398304573456405",
+      "type": "Default",
+      "timestamp": "2020-10-15T20:33:14.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "RESUBMISSION - CORRECTED TIMING\nVOD: https://www.twitch.tv/videos/770515338\nName: Matt S (Matt Sengbusch)\nTwitch: SmallChangeArcade\nSubmitting Games:\n641,920 - 00:42:04\n519,835 - 00:16:55\n515,171 - 00:51:07",
+      "author": {
+        "id": "534109160854519809",
+        "name": "Small Change Arcade",
+        "discriminator": "9984",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/534109160854519809/18160f3e144f9b98b3c6f707207cd4d8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766449437873668108",
+      "type": "Default",
+      "timestamp": "2020-10-15T23:56:25.931+00:00",
+      "timestampEdited": "2020-10-15T23:58:44.587+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771366609\nName: Sarah Heller\nTwitch: missmollygrue\n277,362  01:08:21 \n243,689  01:33:30\n242,711 01:44:27 \n\n[whomp whomp]",
+      "author": {
+        "id": "293881193311764490",
+        "name": "missmollygrue",
+        "discriminator": "0475",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766460435637338162",
+      "type": "Default",
+      "timestamp": "2020-10-16T00:40:08.002+00:00",
+      "timestampEdited": "2020-10-17T03:51:51.363+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/771435987\nName : doge\nTwitch : doge_nestris\nSubmitting Games :\n999 999 - 00h 27m 26s \n999 999 - 00h 45m 26s\n999 999 - 01h 05m 53s\n999 999 - 01h 51m 38s\n944 720 - 01h 39m 06s (stupid kicker thing even though there is no one with 4 maxes anyway :ctwcGT: )\nBackup vod on youtube:  https://youtu.be/fgjwjGe_Ktw\n:ctwcLogo:",
+      "author": {
+        "id": "159125911243849729",
+        "name": "doge",
+        "discriminator": "1975",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159125911243849729/a_8dca756025337365df1242fb71c0174e.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766471184300376074",
+      "type": "Default",
+      "timestamp": "2020-10-16T01:22:50.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771106057\nName: Marq\nTwitch: Marc_DeusX / marq_2\n926 540 - 00h38m27s\n893 120 - 02h14m12s\n880 800 - 01h02m55s",
+      "author": {
+        "id": "362621024266747924",
+        "name": "Marq",
+        "discriminator": "1617",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/362621024266747924/4bac25d31d4b95f00012dcea34a2f845.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766480780528189450",
+      "type": "Default",
+      "timestamp": "2020-10-16T02:00:58.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771549651                          Name: Drybones                                                                                     Twitch: drybonedaniel                                                                           566560- 00h20m7s                                                                              551861- 00h45m19s                                                                              534022-01h10m-31s",
+      "author": {
+        "id": "414986660204249090",
+        "name": "DryBoneDaniel",
+        "discriminator": "3562",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414986660204249090/9f74793c74d1d8bf0359d8c80de90187.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766489625069092916",
+      "type": "Default",
+      "timestamp": "2020-10-16T02:36:07.305+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/771596210\nName : AKGMB\nTwitch : AKGrandmasterB\n464, 147 - 1:21:15\n438, 684 - 1:27:42\n376, 820 - 21:25\n\nI didn\u0027t realize it until I watched the VOD, but when I turned music on my phone it was picked up by the stream.  It\u0027s not very loud though.",
+      "author": {
+        "id": "161639461594071040",
+        "name": "AKGrandmasterB",
+        "discriminator": "2435",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161639461594071040/08cb4de184d65e9260513613202f2d76.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766505680881713162",
+      "type": "Default",
+      "timestamp": "2020-10-16T03:39:55.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://m.twitch.tv/videos/771631273\nName: michael\nTwitch: mikeyy_v\n748,431 - 01h06m45s\n721,208 - 00h43m59s\n575,135 - 01h18m58s",
+      "author": {
+        "id": "279429490961285120",
+        "name": "michael",
+        "discriminator": "4780",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766508788458455071",
+      "type": "Default",
+      "timestamp": "2020-10-16T03:52:16.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771635666\nName: Luke\nTwitch: Lukeand_26\n995,560 - 1:13:20\n984,880 - 1:00:48\n966,220 - 0:25:23",
+      "author": {
+        "id": "483031550787846157",
+        "name": "lukeand26",
+        "discriminator": "4649",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766510198935650304",
+      "type": "Default",
+      "timestamp": "2020-10-16T03:57:52.497+00:00",
+      "timestampEdited": "2020-10-16T04:17:38.252+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771533125\nName: Johann\nTwitch: EngJohann\nSubmitting Games: \n930,960 - 1:04:43\n648,380 - 01:29:18\n638,160 - 00:25:41",
+      "author": {
+        "id": "553703753262432314",
+        "name": "EngJohann",
+        "discriminator": "1501",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/553703753262432314/967ddd754f70aaa6c3806051693ad8c5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766514570889658398",
+      "type": "Default",
+      "timestamp": "2020-10-16T04:15:14.852+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/oldtapp3r/v/771086926\nName: Leo\nTwitch: oldtapp3r\nSubmitting Games:\n720 520 - 01h 21m 12s\n704 700 - 00h 28m 53s\n659 048 - 00h 38m 00s",
+      "author": {
+        "id": "750166085621514281",
+        "name": "oldTapp3r",
+        "discriminator": "3681",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766516583224180776",
+      "type": "Default",
+      "timestamp": "2020-10-16T04:23:14.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771722912\nName: Anthony\nTwitch: azn_anthony\n997,672 - 01:45:57\n900,377 - 00:46:48\n684,022 - 00:07:02",
+      "author": {
+        "id": "194294804727726080",
+        "name": "AnfonyHoe",
+        "discriminator": "6456",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/194294804727726080/0df71465bf18986e76c2b1524d987a76.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766518363664285717",
+      "type": "Default",
+      "timestamp": "2020-10-16T04:30:19.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771678313\nName: Louie\nTwitch: LouieSkouie\n\n745,540 - 2:01:46\n712,200 - 17:31\n664,340 - 1:34:42",
+      "author": {
+        "id": "399419968992837632",
+        "name": "louieskouie",
+        "discriminator": "2469",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/399419968992837632/75c0da18b75899b5ec760eff382f19d8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766532781366050876",
+      "type": "Default",
+      "timestamp": "2020-10-16T05:27:36.568+00:00",
+      "timestampEdited": "2020-10-16T05:36:44.599+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771767548\nName: skip\nTwitch: skiplogic\n\n576,880 - 1:30:00\n491,680 - 43:50\n441,400 - 32:16",
+      "author": {
+        "id": "269681888380190730",
+        "name": "skiplogic",
+        "discriminator": "9125",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269681888380190730/be83ad5ea27177b170e89855f06497f1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766533805031948298",
+      "type": "Default",
+      "timestamp": "2020-10-16T05:31:40.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/771758204\nName: Matt Holland\nTwitch: mattholland\n589,671 0:54:12\n571,280 1:19:33\n453,731 1:40:23",
+      "author": {
+        "id": "552326386233376796",
+        "name": "mattholland",
+        "discriminator": "5596",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/552326386233376796/870e8d2113680fa998c2158bc477f9c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766560830359470091",
+      "type": "Default",
+      "timestamp": "2020-10-16T07:19:03.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/mitolex/v/771104685\nName: Mitolex\nTwitch: Mitolex\nSubmitting Games:\n667 029 - 00h 55m 20s\n645 901 - 02h 05m 29s\n595 361 - 01h 44m 39s",
+      "author": {
+        "id": "266882470216073217",
+        "name": "Mitolex",
+        "discriminator": "4020",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266882470216073217/d86c399aaf23bb4dc52a6b7b0951dd07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766573849336217600",
+      "type": "Default",
+      "timestamp": "2020-10-16T08:10:47.935+00:00",
+      "timestampEdited": "2020-10-16T08:10:53.493+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/itzsharky1/v/771462953\nName: Sharky\nTwitch: ITZsharky1\nSubmitting Games:\n998 698 - 02h 10m 30s\n947 028 - 01h 55m 19s\n929 274 - 01h 06m 43s",
+      "author": {
+        "id": "292064902598754304",
+        "name": "ITZsharky",
+        "discriminator": "2353",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/292064902598754304/cf0f5f4dd7d0cfaa2eed906c2bcdc1f9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766702719313641472",
+      "type": "Default",
+      "timestamp": "2020-10-16T16:42:52.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772165768\nName: SQR\nTwitch: SQR_Y3\nSubmitting Games (based on in-the-video timer \u0026 Twitch VOD timestamp):\n867 785 - -0:49:10 (1:16:52 of VOD)\n706 826 - -1:29:18 (0:36:45 of VOD)\n674 295 - -1:55:15 (0:10:48 of VOD)",
+      "author": {
+        "id": "353691481329893378",
+        "name": "skysqraper",
+        "discriminator": "2870",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/353691481329893378/7f395a7673f640032cdb354b29dd4634.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766710422203138051",
+      "type": "Default",
+      "timestamp": "2020-10-16T17:13:29.444+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/maiwingkos/v/771354247\nName: Wing\nTwitch: Maiwingkos\nSubmitting Games:\n843 915 - 00h 29m 36s\n763 045 - 02h 19m 24s\n605 923 - 02h 04m 30s",
+      "author": {
+        "id": "317325040339386369",
+        "name": "Maiwingkos",
+        "discriminator": "0686",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/317325040339386369/4c3383ee6333a5a3a274e3b46bddc30c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766733571268018249",
+      "type": "Default",
+      "timestamp": "2020-10-16T18:45:28.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: \u003Chttps://www.twitch.tv/videos/772137410\u003E\nName: King\nTwitch: Kingsman36\nSubmitting Games:\n500 402 - 00h 44m 20s\n460 357 - 02h 24m 54s\n437 910 - 01h 34m 31s",
+      "author": {
+        "id": "548672719248424961",
+        "name": "Kingsman",
+        "discriminator": "0364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548672719248424961/0013852af7f9c0761ae92f851c86160b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "724960641055457412",
+            "name": "kingsmangry",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/724960641055457412.png"
+          },
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "766740339134038057",
+      "type": "Default",
+      "timestamp": "2020-10-16T19:12:22.196+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772138467\nName: Fredag\nTwitch: fredagsvik\nSubmitting Games:\n720 320 - 01h 19m 08s\n469 240 - 00h 36m 26s\n452 865 - 02h 01m 14s",
+      "author": {
+        "id": "633299728041377792",
+        "name": "fredagsvik",
+        "discriminator": "0665",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633299728041377792/563aa07f15cf029f2d62e13b282dc678.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766746584578785310",
+      "type": "Default",
+      "timestamp": "2020-10-16T19:37:11.226+00:00",
+      "timestampEdited": "2020-10-16T19:37:41.685+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.youtube.com/watch?v=4-2CJhJ8-G8\u0026feature=youtu.be (I didn\u0027t enable saving VODs oops)\nName: Sidnev\nTwitch: sidnevv\nSubmitting games:\n999 999 -  01h 56m 30s\n661 401 - 01h 46 m 37s\n639 561 - 01h 19m 54s",
+      "author": {
+        "id": "415755702150234112",
+        "name": "sidnev",
+        "discriminator": "9662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/415755702150234112/db37566b2fbfb1b2f7b47bcd2d17bc92.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766749156676599818",
+      "type": "Default",
+      "timestamp": "2020-10-16T19:47:24.462+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772350880\nName: SorenPaul\nTwitch: redshirttheory\nSubmitted Games:\n1| 691400 @ 51m 12\n2| 638832 @ 2h 05m\n3| 623933 @ 1h 35m",
+      "author": {
+        "id": "565658868739342336",
+        "name": "redshirttheory",
+        "discriminator": "4460",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766755835006418955",
+      "type": "Default",
+      "timestamp": "2020-10-16T20:13:56.7+00:00",
+      "timestampEdited": "2020-10-16T20:45:40.198+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772212527\nName: Paul Yeo\nTwitch: paul_soup_\nSubmitted Games:\n999999 1h 14m 35s\n982000 00h00m00s",
+      "author": {
+        "id": "190437287408959488",
+        "name": "Paul \u694A",
+        "discriminator": "5532",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190437287408959488/6e5400facad8e901dbffbf679e99b4a1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766774418528796753",
+      "type": "Default",
+      "timestamp": "2020-10-16T21:27:47.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772271704\nName: salvolc\nTwitch: salvolc95\nSubmitting Games:\n785 980 - 01h 17m 27s\n584 280 - 00h 28m 38s\n547 125 - 00h 54m 36s",
+      "author": {
+        "id": "707343389426712596",
+        "name": "salvolc",
+        "discriminator": "1239",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707343389426712596/2edfcb001436c77764bb97850c9b061e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766779751217364994",
+      "type": "Default",
+      "timestamp": "2020-10-16T21:48:58.769+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772322728\nName: Tugi\nTwitch: tuginhooo\nSubmitting Games:\n960 660 - 1h 07m 03s\n898 271 - 0h 24m 49s\n886 886 - 0h 48m 18s",
+      "author": {
+        "id": "276440273658052608",
+        "name": "Tugi",
+        "discriminator": "7004",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276440273658052608/b41b0aa6ab6c204edb7ae8cb543833db.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766786248362164284",
+      "type": "Default",
+      "timestamp": "2020-10-16T22:14:47.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772340179\nName: Sodium\nTwitch: sodiumoverdose\nSubmitting Games:\n999 999 - 0h 41m 32s\n999 999 - 1h 25m 27s\n999 999 - 1h 44m 24s\n999 999 - 2h 6m 52s\n967 960 - 0h 14m 14s",
+      "author": {
+        "id": "328679649582383105",
+        "name": "SodiumOverdose",
+        "discriminator": "8425",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328679649582383105/294e399c2a737eb882a3794990229046.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766791780413866014",
+      "type": "Default",
+      "timestamp": "2020-10-16T22:36:46.753+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/772327119\nName : Micah Gorsline\nTwitch : jello_ssb\nSubmitting Games :\n740 320 - 01h 36m 37s\n733 700 - 01h 48m 33s\n731 560 - 01h 26m 0s",
+      "author": {
+        "id": "204356788261355521",
+        "name": "PikaClone",
+        "discriminator": "5639",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204356788261355521/7b82b788d71a8dca01a445772c71637e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766796509127507989",
+      "type": "Default",
+      "timestamp": "2020-10-16T22:55:34.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772340828\nName: Ricardo Ocampo\nTwitch: Peekayric\nSubmitting Games:\n838,453 - 00h 54m 34s\n810,230 - 01h 22m 30s\n586,702 - 02h 29m 00s",
+      "author": {
+        "id": "602325375321636866",
+        "name": "Pkric",
+        "discriminator": "0281",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/602325375321636866/f85ce023c2163e460520d76bbad4cfb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766813334557032448",
+      "type": "Default",
+      "timestamp": "2020-10-17T00:02:25.661+00:00",
+      "timestampEdited": "2020-10-17T09:13:32.715+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772408115\nName: Alex\nTwitch: xeal337\nSubmitting Games:\n789991 - 1h 31m 19s\n640250 - 1h 43m 00s\n617210 -1h 05m 08s",
+      "author": {
+        "id": "195893042153127937",
+        "name": "XeaL",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195893042153127937/1c5348217e528b53196238fc4bef4ad2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766817141550612520",
+      "type": "Default",
+      "timestamp": "2020-10-17T00:17:33.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772472863\nName: Dave\nTwitch: DivCaste\nSubmitting Games:\n744 100 - 01h 36m 56s\n728 520 - 00h 02m 58s\n724 040 - 00h 26m 46s\nSorry for the timer font, I know it\u0027s a bit of an eyesore.",
+      "author": {
+        "id": "438387333557911552",
+        "name": "DivCaste",
+        "discriminator": "6595",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/438387333557911552/e8355d36eaae1fdc9cd464c1c7fdc997.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766836720859480075",
+      "type": "Default",
+      "timestamp": "2020-10-17T01:35:21.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772716788\nName: Anomalous\nTwitch: anomalous1375\nSubmitting Games:\n928683 - 01h 05m 08s\n824660 - 00h 55m 46s\n710680 - 00h 26m 35s",
+      "author": {
+        "id": "230360345141706752",
+        "name": "anomalous",
+        "discriminator": "7785",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/230360345141706752/3d1c7a82501f95d73774e927054172e0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766854950072221768",
+      "type": "Default",
+      "timestamp": "2020-10-17T02:47:47.573+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772615042\nName: Myles\nTwitch: MylesTheGreat\nSubmitting Games:\n999 999 - 00h 17m 52s\n999 999 - 00h 42m 49s\n911 660 - 00h 27m 56s",
+      "author": {
+        "id": "166254443069702145",
+        "name": "MylesTheGreat",
+        "discriminator": "3136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166254443069702145/0db8b6a77001c5d790e8d85a718bd41e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766857260843401236",
+      "type": "Default",
+      "timestamp": "2020-10-17T02:56:58.504+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772650480\nName: Joseph Saelee\nTwitch: JdMfX_\nSubmitting Games (VOD Timestamps):\n999999 - 00h 08m 48s\n999999 - 00h 18m 00s\n999999 - 00h 27m 22s\n999999 - 00h 36m 30s\n999999 - 00h 45m 40s\n999999 - 00h 54m 54s\n999999 - 01h 03m 55s\n999999 - 01h 16m 00s\n999999 - 01h 24m 20s\n999999 - 01h 32m 58s\n999999 - 01h 53m 28s\n999999 - 02h 01m 54s\n540660 - 01h 43m 38s",
+      "author": {
+        "id": "211241380125605889",
+        "name": "JdMfX_",
+        "discriminator": "3936",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/211241380125605889/d74439129a87615b0708594063e1fef7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "1\uFE0F\u20E3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/31-20e3.png"
+          },
+          "count": 35
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "2\uFE0F\u20E3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/32-20e3.png"
+          },
+          "count": 36
+        },
+        {
+          "emoji": {
+            "id": "668949972217233429",
+            "name": "poggersbear",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/668949972217233429.png"
+          },
+          "count": 38
+        }
+      ]
+    },
+    {
+      "id": "766892628771078154",
+      "type": "Default",
+      "timestamp": "2020-10-17T05:17:30.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:  https://www.twitch.tv/videos/772802896\nName: Scott Coulter\nTwitch: Scootobozo\nSubmitting Games (VOD Timestamps):\n995,330 - 01h 01m 53s\n983,315 - 01h 35m 28s\n945,983 -  01h 17m 39s",
+      "author": {
+        "id": "244360467378733058",
+        "name": "Scottobozo",
+        "discriminator": "5188",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244360467378733058/21188572ea754c7d803ff4158222d090.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766894167141646357",
+      "type": "Default",
+      "timestamp": "2020-10-17T05:23:37.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772409818\nName: Asta\nTwitch: pots12344\nSubmitting Games:\n999 999 - 00h 56m 16s\n999 999 - 02h 02m 30s\n981 380 - 01h 09m 11s",
+      "author": {
+        "id": "174333599170953216",
+        "name": "AstatineEffect",
+        "discriminator": "6042",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/174333599170953216/d4f92e78a475fbb8e53118f72f6afc41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766901312314277909",
+      "type": "Default",
+      "timestamp": "2020-10-17T05:52:01.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/oscargodinez7/v/771858830\nhttps://www.twitch.tv/oscargodinez7/v/771867538\n(Note: There are 2 VODS, the first VOD is the verification procedures)\nName: Oscar\nTwitch: oscargodinez7\nSubmitting Games:\n709 649 - 01h 05m 05s (There was a visual glitch 01h 13m 58s)\n663 081 - 00h 36m 10s\n623 100 - 00h 22m 40s",
+      "author": {
+        "id": "741221741703200768",
+        "name": "oscar godinez",
+        "discriminator": "5631",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766923752452915230",
+      "type": "Default",
+      "timestamp": "2020-10-17T07:21:11.339+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772744685\nName: Lu Ouyang\nTwitch: poopyoldhag\nSubmitting Games:\n675 800 - 02h 02m 03s\n644 220 - 00h 34m 11s\n568 780 - 02h 14m 22s",
+      "author": {
+        "id": "677835322070925322",
+        "name": "poopyoldhag",
+        "discriminator": "7229",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/677835322070925322/9336feeeb55608f455868bbc74cfd26c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766926103977394187",
+      "type": "Default",
+      "timestamp": "2020-10-17T07:30:31.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/772710159\nName: NerDzzzzz\nTwitch: NerDzzzzz\nSubmitting Games:\n999 999 - 02h 03m 10s\n999 999 - 02h 51m 12s\n979 340 - 01h 11m 55s",
+      "author": {
+        "id": "503162247992836106",
+        "name": "NerDzzzzz",
+        "discriminator": "8658",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/503162247992836106/7f65a2543c58daec4762f4e296975f52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "766926971627241474",
+      "type": "Default",
+      "timestamp": "2020-10-17T07:33:58.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/mecex17/v/772536178\nName: Mecex\nTwitch: mecex17\nSubmitting Games:\n750 190 - 01h 49m 04s\n664 803 - 01h 59m 19s\n611 280 - 01h 16m 44s",
+      "author": {
+        "id": "337690418286297088",
+        "name": "Mecex",
+        "discriminator": "6833",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337690418286297088/3cf6eee6eac6d3af3c4296d19ed8ed68.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767038208025296917",
+      "type": "Default",
+      "timestamp": "2020-10-17T14:55:59.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/773102474\nName : KAINOS\nTwitch : k41n05\nSubmitting Games :\n613 360- 00h 24m 59s\n551 660 - 01h 04m 58s\n536 586 - 01h 13m 00s",
+      "author": {
+        "id": "630800143997861927",
+        "name": "KAINOS",
+        "discriminator": "8036",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630800143997861927/62252f8537e25935dae4f4579721e2a0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767044727035396146",
+      "type": "Default",
+      "timestamp": "2020-10-17T15:21:53.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773129531\nName: AlexS\nTwitch: alexstroescu\nSubmitting Games: \n915911 - 00h 13m 52s\n628323 - 00h 28m 31s\n 656921 - 01h 21m 11s",
+      "author": {
+        "id": "152509835009589250",
+        "name": "Alex Stroescu",
+        "discriminator": "9305",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/152509835009589250/c5e629a827ae260b86577417df97f1d7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767059948948553789",
+      "type": "Default",
+      "timestamp": "2020-10-17T16:22:23.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773153912\nName: Yobi\nTwitch: yobi9\nSubmitting Games: \n363821 - 00h 18m 33s\n358582 - 01h 47m 16s\n338847 - 02h 03m 46s",
+      "author": {
+        "id": "587782631291355138",
+        "name": "yobi9",
+        "discriminator": "3211",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/587782631291355138/4c93e5df2abcdd401c3b75653138b1cd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767089371379400735",
+      "type": "Default",
+      "timestamp": "2020-10-17T18:19:17.968+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773215315\nName: GameScout\nTwitch: agamescout\nSubmitting Games:\n566 451 - 01h 58m 57s\n545 320 - 01h 46m 06s\n474 592 - 02h 10m 07s",
+      "author": {
+        "id": "431555365277138944",
+        "name": "aGameScout",
+        "discriminator": "3745",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431555365277138944/d5355048ddf5211b8dbfd86bba0e718b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767101030294224957",
+      "type": "Default",
+      "timestamp": "2020-10-17T19:05:37.67+00:00",
+      "timestampEdited": "2020-10-17T22:40:40.709+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/772862415\nName : DLo\nTwitch : its_dlo\nSubmitting Game:\n689 200.......... - 00h 28m 00s",
+      "author": {
+        "id": "509567820120719380",
+        "name": "DLo",
+        "discriminator": "7173",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/509567820120719380/4834146d891ded7dde2c697aae01e54a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767109328158982176",
+      "type": "Default",
+      "timestamp": "2020-10-17T19:38:36.035+00:00",
+      "timestampEdited": "2020-10-17T19:51:20.791+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773287278\nName: Jack13B \nTwitch: jack13berry \nSubmitting Games:\n354 700 - 00h 19m 56s\n345 000 - 01h 26m 14s\n329 540 - 00h 29m 35s",
+      "author": {
+        "id": "610926312478998560",
+        "name": "jack13berry",
+        "discriminator": "0099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/610926312478998560/8d6f514f9c47931b54132e38a125d4cf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767142762100686849",
+      "type": "Default",
+      "timestamp": "2020-10-17T21:51:27.308+00:00",
+      "timestampEdited": "2020-10-17T21:52:01.297+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/joshualtolles/v/772497886\nName: Joshua\nTwitch: JoshuaLTolles\nSubmitting Games:\n962 700 - 01h 35m 22s\n921 920 - 02h 19m 33s\n735 180 - 00h 36m 58s",
+      "author": {
+        "id": "400078285348012044",
+        "name": "Shuram Gudatetris (UTC -5)",
+        "discriminator": "4111",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400078285348012044/5f534c102668f9a9f58fcca97fd9f3a0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767161138034114562",
+      "type": "Default",
+      "timestamp": "2020-10-17T23:04:28.472+00:00",
+      "timestampEdited": "2020-10-18T03:11:24.679+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\u00A0https://www.twitch.tv/videos/773502853  \nName: Steve K\nTwitch: fluteca\nSubmitting Games:\n461,146 - 01h 34m 05s\n415,020 - 00h 28m 55s\n401,255 - 00h 45m 38s",
+      "author": {
+        "id": "763294064652451870",
+        "name": "fluteca",
+        "discriminator": "1671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/763294064652451870/4142665348af0d793d1c39edae7604ea.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767168904627093524",
+      "type": "Default",
+      "timestamp": "2020-10-17T23:35:20.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/773524047\nName : Matthew Schoolmaster\nTwitch : theschoolmaster\nSubmitting Games : \n884 361 - 02h 04m 13s\n800 806 - 01h 43m 30s \n690 760 - 01h 13m 17s",
+      "author": {
+        "id": "398922664900558858",
+        "name": "theschoolmaster",
+        "discriminator": "1245",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398922664900558858/1bcf8cc29a87cdd80e51c219d7d5bbe8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767186445919453186",
+      "type": "Default",
+      "timestamp": "2020-10-18T00:45:02.342+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773627272\nName: Sean O\u0027Sullivan\nTwitch: sean17433\nSubmitting Games:\n712,440 - 00h 41m 30s\n557,840- 01h 55m 48s\n483,320- 01h 16m 32s",
+      "author": {
+        "id": "337269238920380426",
+        "name": "sean1743",
+        "discriminator": "3388",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337269238920380426/0cde11818a8e76c6ee46755bd3f78dbe.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767189425985552435",
+      "type": "Default",
+      "timestamp": "2020-10-18T00:56:52.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773598601\nName: Jeremy M\nTwitch: MioIsurugi\nSubmitting Games:\n462959 - 01h 33m 51s\n377210 - 00h 47m 12s\n361035 - 01h 56m 12s",
+      "author": {
+        "id": "455599489781071873",
+        "name": "MioIsurugi",
+        "discriminator": "0299",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/455599489781071873/00055401773c021f83a3e5e79929be6a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767190312938373128",
+      "type": "Default",
+      "timestamp": "2020-10-18T01:00:24.311+00:00",
+      "timestampEdited": "2020-10-18T01:00:59.051+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\u00A0https://www.twitch.tv/videos/773532881\nName : Andrew Dudek\nTwitch: adudeabides\nSubmitting Games:\n537,628 01h 36m 09s\n536,730 00h 45m 45s",
+      "author": {
+        "id": "361998863751446555",
+        "name": "the dude",
+        "discriminator": "9686",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/361998863751446555/857386d2717796d151cf6ae269b876d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767198253262962698",
+      "type": "Default",
+      "timestamp": "2020-10-18T01:31:57.432+00:00",
+      "timestampEdited": "2020-10-18T02:45:51.633+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773642834\nName: Pokenerd\nTwitch: Pokenerd_\nSubmitting games: \n999,999 - 02h 08m 03s\n948,160 - 00h 40m 34s\n844,700 - 05h 09m 05s",
+      "author": {
+        "id": "683238989032980572",
+        "name": "Pokenerd",
+        "discriminator": "9718",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683238989032980572/258d6d8216103ea0ab98396201ac9bff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767212602626932766",
+      "type": "Default",
+      "timestamp": "2020-10-18T02:28:58.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/classicvomce/v/771676185\nName: Vince\nTwitch: classicvomce\nSubmitting Games:\n726 092 - 00h 33m 40s\n688 492 - 00h 24m 46s\n558 520 - 01h 41m 43s",
+      "author": {
+        "id": "403038535185072130",
+        "name": "CTWCvince",
+        "discriminator": "9209",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403038535185072130/c076f5f8cd7d499cbd337951539f1eaa.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767213827506831360",
+      "type": "Default",
+      "timestamp": "2020-10-18T02:33:50.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773548834\nName: fractal\nTwitch: fractal161\nSubmitting games: (all times are w.r.t. VOD)\n999999 - 01h 22m 07s\n999999 - 02h 30m 53s\n977920 - 02h 21h 45s",
+      "author": {
+        "id": "617032292094705834",
+        "name": "fractal161",
+        "discriminator": "1977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/617032292094705834/431663ecaccd73ce660ca402e3f72865.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767224827730853900",
+      "type": "Default",
+      "timestamp": "2020-10-18T03:17:33.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773617397\nName: Ben\nTwitch: opaux\nSubmitting games:\n999999 - 02h 23m 40s\n995531 - 24m 51s\n964132 - 51m 20s",
+      "author": {
+        "id": "292652237199638529",
+        "name": "opaux",
+        "discriminator": "5052",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/292652237199638529/796f601db312f73ff97d915993b960d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767238540962431007",
+      "type": "Default",
+      "timestamp": "2020-10-18T04:12:02.768+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773486716\nName: Lmao\nTwitch: LmaoTsetung\nSubmitting games:\n877766 - 01h 38m 34s\n860421 - 02h 00m 45s\n820792 - 00h 43m 06s",
+      "author": {
+        "id": "115555605816541189",
+        "name": "Lmao Zedong",
+        "discriminator": "1758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/115555605816541189/3c17e510c719064d07f70f214a8d81ce.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767241696005324810",
+      "type": "Default",
+      "timestamp": "2020-10-18T04:24:34.989+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773604086\nName: Tristop\nTwitch: Tristop\nSubmitting games: (VOD time)\n999999 - 00h 34m 45s\n999999 - 00h 50m 32s\n999999 - 01h 00m 23s\n999999 - 01h 17m 42s\n999999 - 01h 30m 10s\n999999 - 01h 49m 00s\n999999 - 02h 25m 29s\n617480 - 01h 41m 47s",
+      "author": {
+        "id": "240196824902664192",
+        "name": "Tristop",
+        "discriminator": "9768",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/240196824902664192/d3e9f5a992a2d950de407fc15161e916.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767243127567286292",
+      "type": "Default",
+      "timestamp": "2020-10-18T04:30:16.3+00:00",
+      "timestampEdited": "2020-10-18T04:30:44.168+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773827622\nName: Reed \nTwitch: rfh316\nSubmitting games:\n970797 - 00hr 49m 15s\n696280 - 01hr 33m 21s\n645258 - 01hr 50m 30s",
+      "author": {
+        "id": "392189639785578508",
+        "name": "rfh",
+        "discriminator": "6743",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392189639785578508/7897c94e5afd849a3afb14f7b9e02e62.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767243650413101078",
+      "type": "Default",
+      "timestamp": "2020-10-18T04:32:20.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773794853\nName: Timothy K\nTwitch: timmykim915\nSubmitting games (VOD time):\n766640 - 01h 36m 00s\n624700 - 01h 21m 20s\n579980 - 02h 08m 51s",
+      "author": {
+        "id": "286887025871945729",
+        "name": "timmykim915",
+        "discriminator": "7525",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286887025871945729/3b67de98d5aab0261e1f9af1188c8bf2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767244368750182430",
+      "type": "Default",
+      "timestamp": "2020-10-18T04:35:12.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773731163\nName: Eric\nTwitch: EricICX\nSubmitting games:\n999,999 - 00h 15m 28s\n999,999 - 00h 33m 10s\n999,999 - 00h 42m 05s (b2b)\n999,999 - 01h 11m 53s\n999,999 - 01h 20m 51s (b2b)\n999,999 - 01h 29m 31s (b3b)\n999,999 - 02h 00m 25s (ft. bad singing)\n933,820 - 02h 08m 58s",
+      "author": {
+        "id": "577211052513558691",
+        "name": "EricICX",
+        "discriminator": "6985",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577211052513558691/a_7695053391a9f48c906a50979c7ac912.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767247864500977694",
+      "type": "Default",
+      "timestamp": "2020-10-18T04:49:05.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773990991\nName: Ian\nTwitch: iannibba\nSubmitting games (Scores - timer):\n999,999 - 38:54\n959,720 - 54:27\n958,440 - 1:32:20",
+      "author": {
+        "id": "272445805040762880",
+        "name": "ian.capalot",
+        "discriminator": "0008",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272445805040762880/8239cdb661876b6517ec8bb7961af4f7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767249313188937769",
+      "type": "Default",
+      "timestamp": "2020-10-18T04:54:51.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773567615\nName: Nevanator\nTwitch: Nevanator2005\nSubmitting games:\n706,720 - 1h 5m 19s\n694,940 - 1h 13m 29s\n685,380 - 1h 57m 08s",
+      "author": {
+        "id": "354066852776902668",
+        "name": "Nevanator2005",
+        "discriminator": "7984",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/354066852776902668/47a35b7d2d5b819281f568f33e48202f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767254460182298684",
+      "type": "Default",
+      "timestamp": "2020-10-18T05:15:18.206+00:00",
+      "timestampEdited": "2020-10-18T05:15:30.279+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773877400\nName: Lestyn Brooks\nTwitch: TheBirbWizard\nSubmitting games:\n495,075 - 00h 45m 53s\n485,140 - 02h 03m 49s\n484,725 - 00h 58m 43s",
+      "author": {
+        "id": "346374057744269312",
+        "name": "BirbWizard",
+        "discriminator": "9396",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346374057744269312/e447152cec0c87bc88018b82fc532bc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767258286336507984",
+      "type": "Default",
+      "timestamp": "2020-10-18T05:30:30.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773896829\nName: Pepe\nTwitch: pepe2381\nSubmitting games:\n999,999 - 00h 22m 50s\n972,660 - 02h 14m 27s\n949,120 - 02h 04m 38s",
+      "author": {
+        "id": "143868242346246144",
+        "name": "Martin24",
+        "discriminator": "3712",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/143868242346246144/91f65bbf3f7b327fb6f10b58cf019e79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767273655994286081",
+      "type": "Default",
+      "timestamp": "2020-10-18T06:31:34.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773876389\nName: TetrisTime\nTwitch: TetrisTime_\nSubmitting Games:\n999,999 - 01h 25m 28s\n769,300 - 0h 50m 15s\n698,280 - 0h 18m 41s",
+      "author": {
+        "id": "158508742789300224",
+        "name": "TetrisTime",
+        "discriminator": "8026",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158508742789300224/8c27079e1a92ca21e6ce0d46da95e270.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767277168912105493",
+      "type": "Default",
+      "timestamp": "2020-10-18T06:45:32.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.twitch.tv/videos/773849843\nName: japorto\nTwitch: japorto\nSubmitting games:\n724,984 - 01h 48m 30s\n611,232 - 02h 07m 45s\n575,780 - 01h 00m 20s",
+      "author": {
+        "id": "218969840495362049",
+        "name": "japorto",
+        "discriminator": "5801",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/218969840495362049/b15306b077d7bc5950531f842b819546.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767279448315658250",
+      "type": "Default",
+      "timestamp": "2020-10-18T06:54:35.841+00:00",
+      "timestampEdited": "2020-10-18T10:34:50.177+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773962997\nName: Sam Finch\nTwitch: samfinch413\nSubmitting games:\n999,999 - 51:17\n999,999 - 1:00:41\n999,999 - 1:09:09\n999,999 - 1:32:53\n999,999 - 1:41:22\n999,999 - 2:02:48\n815,022 - 1:23:42",
+      "author": {
+        "id": "702667898484818003",
+        "name": "Sam Finch",
+        "discriminator": "2896",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/702667898484818003/1003a288b7893f1bc5696964fff11dc0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767286189157253180",
+      "type": "Default",
+      "timestamp": "2020-10-18T07:21:22.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773824370\nName: Alex\nTwitch: Kitaru\nSubmitting games:\n999,999 2:05:33\n941,920 1:19:59\n858,000 1:50:41\n",
+      "author": {
+        "id": "159469676953468928",
+        "name": "Kitaru",
+        "discriminator": "4768",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159469676953468928/49e2ca56cf9faa1b308e148d0aed4f46.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767300098199519252",
+      "type": "Default",
+      "timestamp": "2020-10-18T08:16:39.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773975888\nName: Tim Wong\nTwitch: GlasierXplor\nSubmitting Games:\n752,920 - 01:49:22\n653,180 - 01:14:43\n578,120 - 00:49:09",
+      "author": {
+        "id": "645972889404964864",
+        "name": "GlasierXplor",
+        "discriminator": "0927",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/645972889404964864/beb314286a375b6bdb33a8781a9a47b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767300346472169483",
+      "type": "Default",
+      "timestamp": "2020-10-18T08:17:38.35+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: \u003Chttps://www.twitch.tv/videos/774017458\u003E\nName: moodeuce\nTwitch: moodeuce\nSubmitting games:\n919,240 - 01h 27m 27s\n654,600 - 01h 02m 53s\n593,680 - 0h 22m 28s",
+      "author": {
+        "id": "167612761734381568",
+        "name": "moodeuce",
+        "discriminator": "8573",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167612761734381568/f04773f4c6b2669fac15056a38314758.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767401855298306060",
+      "type": "Default",
+      "timestamp": "2020-10-18T15:00:59.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774261304\nName: Jazzie\nTwitch: jazzthief81\nSubmitting games:\n822,440 - 00:25:14\n546,180 - 00:09:36\n512,880 - 01:15:13",
+      "author": {
+        "id": "343493600794902528",
+        "name": "jazzthief81",
+        "discriminator": "5821",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343493600794902528/f50d1c726d10658d36f578bfb07c588c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767421247436357652",
+      "type": "Default",
+      "timestamp": "2020-10-18T16:18:03.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773191094\nName: Richard\nTwitch: berenyi_kft\nSubmitting games:\n999,999 - 00:38:25\n999,999 - 00:59:02\n999,999 - 01:35:23\n901,800 - 00:18:51",
+      "author": {
+        "id": "676170819805904907",
+        "name": "berenyi_kft",
+        "discriminator": "4592",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/676170819805904907/5fb9ef5021c93f550995907a74024f47.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767428015712895036",
+      "type": "Default",
+      "timestamp": "2020-10-18T16:44:57.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774258606\nName: ALEX_H\nTwitch: ALEX_H\nSubmitting games: \n**976,860 - 01:34:38**\n696,780 - 00:19:14\n673,000 - 00:37:00",
+      "author": {
+        "id": "220311468871122944",
+        "name": "ALEX_H",
+        "discriminator": "0746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220311468871122944/76008f4495419749528751308df46aa6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767430282520690738",
+      "type": "Default",
+      "timestamp": "2020-10-18T16:53:57.518+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: \u003Chttps://www.twitch.tv/videos/774220853?t=00h26m21s\u003E \n\u003Chttps://www.twitch.tv/videos/774254869\u003E \n\u003Chttps://www.twitch.tv/videos/774273599\u003E \n(I had internet problems the first 20 min. The first VOD has setup and verification, 2nd Vod has 2nd start at -1:55:00, and the start of the maxout game, 3rd VOD has all the maxouts and the kicker)\nName: Jesper\nTwitch: TegaMech\nSubmitting games:\n999,999 - 00h04m50s\n999,999 - 00h38m52s\n999,999 - 01h11m51s\n931,754 - 01h24m03s",
+      "author": {
+        "id": "95204045379080192",
+        "name": "MegaTech",
+        "discriminator": "1365",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/95204045379080192/df5dc5cccb0fc1c7cb2e8d50c5ccf5bd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767446208389578792",
+      "type": "Default",
+      "timestamp": "2020-10-18T17:57:14.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774324482\nName: gummi\nTwitch: gummithecat\nSubmitting games:\n470,840 - 02:07:07\n447,000 - 01:44:00\n445,400 - 01:15:50",
+      "author": {
+        "id": "413931483674181632",
+        "name": "gummithecat",
+        "discriminator": "6363",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413931483674181632/90bc2887cf74abf6fca049e677f5b5a8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767465544479146045",
+      "type": "Default",
+      "timestamp": "2020-10-18T19:14:04.624+00:00",
+      "timestampEdited": "2020-10-18T19:14:12.634+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/774288420\nName : Qwiz\nTwitch : QwizYoYo\nSubmitting Games:\n716,516 - 01h04m12s\n678,069 - 02h08m30s\n631,322 - 02h22m04s",
+      "author": {
+        "id": "211092979526533120",
+        "name": "Qwiz",
+        "discriminator": "2551",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/211092979526533120/5cd4607d750be667b23c4120d8d0178f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767478051486433322",
+      "type": "Default",
+      "timestamp": "2020-10-18T20:03:46.527+00:00",
+      "timestampEdited": "2020-10-18T20:04:08.933+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774338187\nName: Hepps\nTwitch: Heppsxd\nSubmitting games:\n790300 - 01h02m20s\n780100 - 00h37m00s\n776185 - 02h18m05s",
+      "author": {
+        "id": "216235398672809984",
+        "name": "Hepps",
+        "discriminator": "2169",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/216235398672809984/a_d3d528d11e7b52dd4f33400c32c3c060.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767480051682771004",
+      "type": "Default",
+      "timestamp": "2020-10-18T20:11:43.411+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774387985\nName: Eren\nTwitch: Cooliceage\nSubmitting games:\n967,180 - 01:14:45\n919,120 - 02:11:46\n888,800 - 00:39:08",
+      "author": {
+        "id": "254348561125343232",
+        "name": "ErenM",
+        "discriminator": "2984",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254348561125343232/6ef3aca34491535737f0971e9e18d6e9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767487013133746206",
+      "type": "Default",
+      "timestamp": "2020-10-18T20:39:23.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/774389316\nName : Zach\nTwitch : z\\_wing\\_\nSubmitting Games :\n642,660 - 01h 00m 10s\n536,012 - 00h 51m 53s\n507,368 - 01h 25m 49s",
+      "author": {
+        "id": "519797906811912192",
+        "name": "Z Wing",
+        "discriminator": "6720",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/519797906811912192/2cb9e363476f7bbbb65c00114cfbed39.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767487631927410720",
+      "type": "Default",
+      "timestamp": "2020-10-18T20:41:50.682+00:00",
+      "timestampEdited": "2020-10-18T20:45:49.144+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774475121\nName: MealChuck\nTwitch: mleczakgnuj\nGames:\n785,660 - https://www.twitch.tv/videos/774475121?t=01h31m54s\n693,820 - https://www.twitch.tv/videos/774475121?t=01h06m48s\n626,740 - https://www.twitch.tv/videos/774475121?t=00h35m46s",
+      "author": {
+        "id": "297098635714232321",
+        "name": "mleczak",
+        "discriminator": "8676",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/297098635714232321/d5e79d5f03478986b37d1cff413a8229.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767490294848946176",
+      "type": "Default",
+      "timestamp": "2020-10-18T20:52:25.572+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/774273116\nName : Rafal\nTwitch : TetrisMasterRafal\nSubmitting Games :\n565\u0027680 - 1:22:13\n514\u0027355 - 1:01:39\n491\u0027157 - 2:10:16",
+      "author": {
+        "id": "573590364380856345",
+        "name": "TetrisMasterRafa\u0142",
+        "discriminator": "0598",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573590364380856345/8d40ca0115743bc309c7277cf91d315e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767493083851259914",
+      "type": "Default",
+      "timestamp": "2020-10-18T21:03:30.522+00:00",
+      "timestampEdited": "2020-10-18T23:58:38.596+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://youtu.be/OgRcDRSVLuc\nName: Uncle Mike\nTwitch: Infotechfellow\nSubmitting games:\n349,968 - 00h00m00s\n281,515 - 00h50m33s\n239,020 - 00h27m21s",
+      "author": {
+        "id": "185213358377664512",
+        "name": "VinesandWillows",
+        "discriminator": "9450",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185213358377664512/7f5427713d7e100844c059f43317a34b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767493348167647243",
+      "type": "Default",
+      "timestamp": "2020-10-18T21:04:33.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774490658\nName:Jerpidude\nTwitch: Jerpidude\nSubmitting Games:\n999,999 - 1:14:00\n999,999 - 1:59:57\n987,720 -  1:30:25",
+      "author": {
+        "id": "279981577805758464",
+        "name": "jerpidude",
+        "discriminator": "7951",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/279981577805758464/ea06b6f3a8f8dbcd0e7506b3545a7f6c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767493442350612541",
+      "type": "Default",
+      "timestamp": "2020-10-18T21:04:55.995+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774487497\nName: Maxinator\nTwitch: Maxinator235\nSubmitting Games:\n605360 - 25:38\n598378 - 55:00\n551800 - 15:26",
+      "author": {
+        "id": "170304241204854785",
+        "name": "Maxinator235",
+        "discriminator": "1580",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/170304241204854785/956238da14f788a223980790956091b4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767505320074412073",
+      "type": "Default",
+      "timestamp": "2020-10-18T21:52:07.865+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774440438\nName: Darthdreadz \nTwitch: Darthdreadz \nSubmitting Games:\n817020 - 02:22:00\n753600 - 2:34:45\n546971 - 2:05:10",
+      "author": {
+        "id": "330163753511419904",
+        "name": "Darthdreadz",
+        "discriminator": "8879",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/330163753511419904/afcb83876f60f0eaf853ea05d0297655.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767506297180127324",
+      "type": "Default",
+      "timestamp": "2020-10-18T21:56:00.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As I had many multiple console malfunctions during my qual, the VODS provided will need some explanation.\nHARDWARE VERIFICATION VOD: https://www.twitch.tv/videos/774653062\nPART 1 VOD: https://www.twitch.tv/videos/774657588\nPART 2 VOD: https://www.twitch.tv/videos/774663548\nThe first VOD provides the hardware check for my NES. The first part VOD shows the multiple malfunctions that occurred from the timer running from 0 to 47 minutes. At the start of the 2nd part, I was given permission by Chris to restart the timer at 30 mins due to lost time from issues. I wasn\u0027t able to put the timer back at 30 mins, so I instead ended when the timer passes 2 hours, 17 minutes. There was another malfunction at 55 minutes, of which there is an extended gap of time between that malfunction, and the next restart. A significant proportion was cut. Thankfully, no further malfunction occurred. All submitted games are from the 2nd part VOD. Local recorded files available upon demand by a judge.\nName: Scamper\nTwitch: scamper9\nSubmitting Games:\n843,360 - https://www.twitch.tv/videos/774663548?t=1h19m13s\n620,160 - https://www.twitch.tv/videos/774663548?t=1h5m40s\n612,980 - https://www.twitch.tv/videos/774663548?t=2h14m47s",
+      "author": {
+        "id": "229317722243203072",
+        "name": "Scamper9",
+        "discriminator": "6772",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/229317722243203072/9ac4c2d376a0baa950fd4589a500f2f0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767509198908293161",
+      "type": "Default",
+      "timestamp": "2020-10-18T22:07:32.651+00:00",
+      "timestampEdited": "2020-10-19T02:35:35.077+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774537330\nName: FBI Stevo\nTwitch: FBI_Stevo\nSubmitting Games:\n843,639 - 02h 02m 31s\n624,343 - 01h 04m 56s\n604,554 - 02h 29m 48s",
+      "author": {
+        "id": "167439203120971785",
+        "name": "FBI Stevo",
+        "discriminator": "6491",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767519633434607647",
+      "type": "Default",
+      "timestamp": "2020-10-18T22:49:00.436+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:  https://www.twitch.tv/videos/774563692\nName:  Patrick\nTwitch:  pnyffe\nSubmitting games:\n606453 -\u00A0https://www.twitch.tv/videos/774563692?t=1h46m48s\n563899 - https://www.twitch.tv/videos/774563692?t=0h43m57s\n523447 -\u00A0https://www.twitch.tv/videos/774563692?t=1h31m10s",
+      "author": {
+        "id": "628670980755292162",
+        "name": "pnyffe",
+        "discriminator": "7858",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767520063317475378",
+      "type": "Default",
+      "timestamp": "2020-10-18T22:50:42.928+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774580588\nName: Dan W\nTwitch: GrandDesigns82\nSubmitting Games:\n673080 - 02h:24m:46s\n584620 - 01h:47m:40s\n555880 - 01h:58m:47s",
+      "author": {
+        "id": "440966764357091339",
+        "name": "Grand Designs",
+        "discriminator": "3638",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767521139941441537",
+      "type": "Default",
+      "timestamp": "2020-10-18T22:54:59.615+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774417091\nName: Tom\nTwitch: tommydabe\nSubmitting Games:\n874680 - 01h 35m 43s\n830200 - 00h 57m 18s\n667780 - 01h 16m 15s",
+      "author": {
+        "id": "638987323614298143",
+        "name": "distom",
+        "discriminator": "8880",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767529167905751120",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:26:53.631+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VODS: \n1) https://www.twitch.tv/videos/774597606\n2) https://www.twitch.tv/videos/774677538\nName: Ben Mullen\nTwitch: benmullen297\nSubmitting games:\n793027 - 21:03 VOD 2\n731721 - 1:01:05 VOD 1\n718721 - 30:02  VOD 2",
+      "author": {
+        "id": "244466063490678794",
+        "name": "Ben",
+        "discriminator": "7094",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244466063490678794/798c52954a3283416b7ab23ea6b9ea41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767530328557879318",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:31:30.352+00:00",
+      "timestampEdited": "2020-10-19T01:28:50.909+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: http://www.twitch.tv/daasiann_/v/774542400?sr=a\u0026t=0s\nName: DaAsiann\nTwitch: DaAsiann_\nSubmitting Games:\n999 999 - 00h 36m 22s\n999 999 - 00h 45m 11s\n999 999 - 01h 32m 23s\n999 999 - 02h 03m 21s\n999 999 - 02h 13m 03s\n999 999 - 02h 41m 21s\n973 055 - 00h 58m 05s",
+      "author": {
+        "id": "192689543361724416",
+        "name": "DaAsiann",
+        "discriminator": "2966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/192689543361724416/10e1d33c75feec8753671410c7382e31.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767531071759450132",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:34:27.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774417049\nName: Jeff\nTwitch: Digginout\n999,999 00h43m24s",
+      "author": {
+        "id": "638150651968225300",
+        "name": "digginout",
+        "discriminator": "1394",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638150651968225300/806d9889c2d63e6c0d272c7486943245.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767533241099223061",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:43:04.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774569486",
+      "author": {
+        "id": "661234456438243341",
+        "name": "crafteekim",
+        "discriminator": "2988",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767533256198324264",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:43:08.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Kim",
+      "author": {
+        "id": "661234456438243341",
+        "name": "crafteekim",
+        "discriminator": "2988",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767533285160386612",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:43:15.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Twitch Name: crafteekim",
+      "author": {
+        "id": "661234456438243341",
+        "name": "crafteekim",
+        "discriminator": "2988",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767533315565027350",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:43:22.51+00:00",
+      "timestampEdited": "2020-10-19T01:45:44.519+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Submitting Games:",
+      "author": {
+        "id": "661234456438243341",
+        "name": "crafteekim",
+        "discriminator": "2988",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767533422888353802",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:43:48.098+00:00",
+      "timestampEdited": "2020-10-19T02:53:20.766+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "595,571- 1:28:51\n530,511- 59:36\n471,451- 46:28",
+      "author": {
+        "id": "661234456438243341",
+        "name": "crafteekim",
+        "discriminator": "2988",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767534359305519104",
+      "type": "Default",
+      "timestamp": "2020-10-18T23:47:31.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/brodindamp/v/773670224\nName: Allen\nTwitch: brodindamp\nSubmitting Games:\n999 999 - 00h 56m 02s\n999 999 - 01h 05m 05s\n999 999 - 02h 18m 43s\n968 870 - 01h 21m 07s\n\nThank you Wingfryer.",
+      "author": {
+        "id": "316745320853929984",
+        "name": "brodindamp",
+        "discriminator": "9729",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316745320853929984/56c39c999e0431e3ee9a8c07db8d7b34.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "585143327779979264",
+            "name": "zwing",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/585143327779979264.png"
+          },
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "767537967421980684",
+      "type": "Default",
+      "timestamp": "2020-10-19T00:01:51.599+00:00",
+      "timestampEdited": "2020-10-19T13:35:07.032+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had some internet problems during my run so the links for my highscore games will take you to different vods, sorry about that, I\u0027ll try to fix my internet for the tournament if I make it\nHardware Verification and a little gameplay: https://www.twitch.tv/videos/774607702\nPart 1 VOD: https://www.twitch.tv/videos/774647724\nPart 2 VOD: https://www.twitch.tv/videos/774659726\nPart 3 VOD: https://www.twitch.tv/videos/774709650\nName: Benjy\nTwitch: b3njy_b0y\nSubmitting Games:\n977,280 - 23:38 Part 2 VOD\n895,740 - 9:50 Part 3 VOD\n808,840 - 30:09 Part 3 VOD",
+      "author": {
+        "id": "650378393501696030",
+        "name": "Benjy",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/650378393501696030/2ed03eef3b47663f252d2aa2bc5d2a6f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767542783183159346",
+      "type": "Default",
+      "timestamp": "2020-10-19T00:20:59.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry about the length of the VOD, I practiced beforehand but never stopped streaming.\nName: Roman\nTwitch: the_gamer_actuary\nVOD: https://www.twitch.tv/videos/774527069\nStart of Judge Verification: 2:25:40\nStart of Timer: 2:47:20\nSubmitting Games:\n794,028 - 4:32:30 to 4:40:45\n598,497 - 3:53:28 to 4:01:27\n579,760 - 4:09:20 to 4:17:40\nThank you Chris!",
+      "author": {
+        "id": "539431145406726144",
+        "name": "NGC Man",
+        "discriminator": "8582",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767543850021158922",
+      "type": "Default",
+      "timestamp": "2020-10-19T00:25:14.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/janutzska/v/774410849\nName: Jani\nTwitch: Janutzska\nSubmitting Games:\n922 782 - 01h 04m 00s\n840 880 - 01h 16m 21s\n612 880 - 02h 12m 53s",
+      "author": {
+        "id": "187729169491296257",
+        "name": "janutzska",
+        "discriminator": "1475",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767545256601190460",
+      "type": "Default",
+      "timestamp": "2020-10-19T00:30:49.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774633128\nName: Sofa\nTwitch: SaltedSofa12\nSubmitting Games:\n999,999 - 00h 44m 36s\n983,600 - 00h 11m 36s\n932, 943 - 01h 51m 49s",
+      "author": {
+        "id": "641166075580514306",
+        "name": "SaltedSofa12",
+        "discriminator": "8996",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/641166075580514306/fce9f7c20e38862155cae5d9e5e5b790.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767546234923253811",
+      "type": "Default",
+      "timestamp": "2020-10-19T00:34:42.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/supasayajin/v/774603047\nName: Larry Long\nTwitch: SuPaSaYaJiN\nSubmitting Games:\n999 999 - 01h 51m 34s\n999 999 - 03h 07m 02s\n964 768 - 02h 42m 00s",
+      "author": {
+        "id": "175716124514582530",
+        "name": "SuPa",
+        "discriminator": "4935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/175716124514582530/d208a2c501ebab6ec8c5b28cfdc915ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767552686203600916",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:00:20.83+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/videos/774612871\nName: Cheez\nTwitch: CheeZ_Fish\nSubmitting Games:\n999,999 - 01h 43m 16s\n912,069 - 02h 15m 42s",
+      "author": {
+        "id": "529525071392407570",
+        "name": "CheeZed_Fish",
+        "discriminator": "1636",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/529525071392407570/371d67225dae85c95a415f2986cc379a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767553285347344445",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:02:43.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/773560510\nName: Pete\nTwitch: themetalbeast\nSubmitting Games:\n826 520 - 1:39:22\n701 480 - 1:30:28\n656 260 - 2:07:38",
+      "author": {
+        "id": "228366329919438848",
+        "name": "themetalbeast",
+        "discriminator": "6691",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/228366329919438848/89d784674a79312e32ab11208ac8fba0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767554023195803648",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:05:39.594+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/videos/774684616\nName: Feoden\nTwitch: your__emperor\nSubmitting Games:\n985 380 - 00h 40m 55s\n801 120 - 01h 53m 02s\n727 280 - 02h 21m 09s",
+      "author": {
+        "id": "310175524775264256",
+        "name": "Your_Emperor",
+        "discriminator": "9616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310175524775264256/1f8527dd477f625254ee4d2d034fbfb5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767554894067531796",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:09:07.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774705758\nName: Phamtom\nTwitch: phamtom_opera\nSubmitting Games:\n962 920 - 01h 21m 42s\n903 380 - O2h 05m 02s\n827 740 - 00h 41m 55s",
+      "author": {
+        "id": "169137878146744330",
+        "name": "Fham",
+        "discriminator": "3612",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/169137878146744330/07d5f8e5171bb2cfe3cab861667e40b7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767556160425164863",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:14:09.149+00:00",
+      "timestampEdited": "2020-10-19T01:15:45.034+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/@me/767555691593596949/767555718949109771 VOD:\nhttp://www.twitch.tv/rookoutrogue/v/774593172\nName: Matt M.\nTwitch: RookoutRogue\nSubmitting Games:\n986 655 - 03h 03m 38s\n902 965 - 03h 33m 18s\n854 882 - 02h 03m 47s",
+      "author": {
+        "id": "201818633356181504",
+        "name": "RookoutRogue",
+        "discriminator": "1274",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767557690195968061",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:20:13.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/nubbinsgoody/v/769412565\nName : NibNubs\nTwitch : NubbinsGoody\nSubmitting Games:\n999 999 - 02h 22m 45s\n956 020 - 01h 12m 40s\n937 320 - 01h 42m 25s",
+      "author": {
+        "id": "336605180030353419",
+        "name": "NubbinsGoody",
+        "discriminator": "3452",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336605180030353419/b7f5c52cc71d49d9890dff4f629f80e8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "668949972217233429",
+            "name": "poggersbear",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/668949972217233429.png"
+          },
+          "count": 10
+        }
+      ]
+    },
+    {
+      "id": "767559383755915274",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:26:57.651+00:00",
+      "timestampEdited": "2020-10-19T01:27:44.38+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774853093\nName: GuardianPsycho\nTwitch: GuadianPsycho\nSubmitting Games:\n(ALL TIMES ARE REFERING TO THE QUAL TIMER AT THE START OF THE GAME)\n629 692 - 01h 39m 52s\n583 962 - 01h 28m 45s\n547 252 -  01h 07m 34s\n\nFollowed by an hour of MonkaW and Mald because am bad",
+      "author": {
+        "id": "318570186149986304",
+        "name": "GuardianPsycho",
+        "discriminator": "9366",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318570186149986304/371397b6009f91c7ad59ce473b592b45.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767561934496333834",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:37:05.795+00:00",
+      "timestampEdited": "2020-10-19T15:59:18.092+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/774752734\nName : Thage\nTwitch : Thagey\n565,261 - 00h 31m 57s\n423,706 - 01h 22m 16s\n384,192 - 01h 14m 57s",
+      "author": {
+        "id": "399447039722651656",
+        "name": "Thage",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/399447039722651656/ebeb8c1ea076beedb4f977d7a23072bb.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767562091585732618",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:37:43.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774725245\nName: justo\nTwitch: itsjustolive\nSubmitting Games:\n549160 - 01h 08m 30s",
+      "author": {
+        "id": "386321709717782529",
+        "name": "Justin",
+        "discriminator": "4932",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767565912614109184",
+      "type": "Default",
+      "timestamp": "2020-10-19T01:52:54.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD : https://www.twitch.tv/videos/774506881\nName : Peter L\nTwitch : Muunas\nSubmitting Games : \n846,266 - 02:13:30\n650,482 - 01:49:45\n562,480 - 00:56:15",
+      "author": {
+        "id": "210606374466355202",
+        "name": "Muunas",
+        "discriminator": "4096",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/210606374466355202/3d9b426362adcf43a17b420cf371900a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767567932384346162",
+      "type": "Default",
+      "timestamp": "2020-10-19T02:00:55.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/b14nk17/v/774692868\nName: B14NK\nTwitch: B14nk17\nSubmitting Games:\n975 240 - 02h 17m 14s\n886 860 - 01h 23m 26s\n858 720 - 02h 30m 49s",
+      "author": {
+        "id": "188863367195262976",
+        "name": "B14NK",
+        "discriminator": "3752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/188863367195262976/fa496b6cb79cd2e90be10ec731952241.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767576583807565824",
+      "type": "Default",
+      "timestamp": "2020-10-19T02:35:18.463+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774700483\nName: Anna\nTwitch: anniecobbs\nSubmitting Games:\n666 420 - 01h 34m 12s\n602 160 - 01h 27m 50s\n596 971 - 02h 24m 27s",
+      "author": {
+        "id": "312737248481116162",
+        "name": "arniecodbe",
+        "discriminator": "4773",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/312737248481116162/bdd61cc56fa1b886717997d3282ab815.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767579979629985832",
+      "type": "Default",
+      "timestamp": "2020-10-19T02:48:48.09+00:00",
+      "timestampEdited": "2020-10-19T02:55:27.341+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774636889\nName: GregBoom\nTwitch: GregBoomCannon\nSubmitting Games:\n972 420 - 0h 23m 48s\n813 285 - 01h 27m 36s\n800 973 - 01h 43m 34s\n(I accidentally paused once but not during any of those 3 games)",
+      "author": {
+        "id": "321016467472515072",
+        "name": "GregBoomCannon",
+        "discriminator": "4087",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/321016467472515072/5d2cff4a9308e67320c3aefc03c34804.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767586700297502742",
+      "type": "Default",
+      "timestamp": "2020-10-19T03:15:30.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD: https://www.twitch.tv/videos/774451565\nName: CharSpark\nTwitch: CharlesSparkley\nSubmitting Games:\n537 371 - 2h 04m 51s",
+      "author": {
+        "id": "304788867863805962",
+        "name": "CharlesSparkley",
+        "discriminator": "7969",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/304788867863805962/e3662da9591735c868b85605b93a552a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767595760689610794",
+      "type": "Default",
+      "timestamp": "2020-10-19T03:51:30.588+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alright fine... as embarrassed as I am at this, I suppose it would be pretty dumb to pass up the chance to play in ANY CTWC tournament, especially with the chance of playing some legends. Big thanks to Wingfryer for putting this together for me (and others):\n\nVOD:\nhttps://www.twitch.tv/themistervalor/v/770810518\nName: VALOR\nTwitch: TheMisterValor\nSubmitting Games:\n817 640 - 00h 37m 45s\n800 320 - 00h 58m 30s\n770 060 - 02h 12m 05s",
+      "author": {
+        "id": "296773920667861002",
+        "name": "TheMisterValor",
+        "discriminator": "1624",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296773920667861002/f5a0fc62121adc5628f327384ab3e6f9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767756515040952341",
+      "type": "Default",
+      "timestamp": "2020-10-19T14:30:17.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/nighttetris/v/774608755\nName: Night\nTwitch: nighttetris\nSubmitting Games:\n638 680 - 02h 22m 16s\n570 680 - 01h 12m 08s\n560 960 - 02h 11m 30s\n",
+      "author": {
+        "id": "654080410426540042",
+        "name": "night",
+        "discriminator": "4546",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/654080410426540042/d196fb4f28c7cb6fa0ea398fb827fa4d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767760473843302411",
+      "type": "Default",
+      "timestamp": "2020-10-19T14:46:01.264+00:00",
+      "timestampEdited": "2020-10-19T14:46:17.324+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks to WingFryer \uD83D\uDE42 . I really didn\u0027t want to submit bc I did terribly and didn\u0027t even get into silver bracket.\n\nVOD:\nhttps://www.twitch.tv/breakfastnoodles/v/773676734\nName: Noodles\nTwitch: BreakfastNoodles\nSubmitting Games:\n688 660 - 02h 16m 56s\n670 420 - 02h 05m 55s\n657 120 - 01h 58m 10s",
+      "author": {
+        "id": "568913964629491740",
+        "name": "BreakfastNoodles",
+        "discriminator": "4374",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568913964629491740/fd9777d01f1e33f331411ff1f5ba1ac8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },   
+    {
+      "id": "767821225283289100",
+      "type": "Default",
+      "timestamp": "2020-10-19T18:47:25.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOD:\nhttps://www.twitch.tv/rizz1010/v/773480932\nName: Frank\nTwitch: rizz1010\nSubmitting Games:\n690 080 - 01h 38m 18s\n604 716 - 01h 49m 39s\n599 161 - 01h 16m 46s",
+      "author": {
+        "id": "507650682384285707",
+        "name": "rizz1010",
+        "discriminator": "1330",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/507650682384285707/47fbad489fa86836759877eda7ee5c54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "767913620562509865",
+      "type": "Default",
+      "timestamp": "2020-10-20T00:54:34.287+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Submitting here as a Judge for the sake of completeness on behalf of 7405P:\n\nVOD: https://www.twitch.tv/videos/774717577\nName: 7405P\nTwitch: 7405P\nSubmitting Games:\n626 372 - 02h 05m 40s\n607 194 - 01h 58m 46s\n583 120 - 01h 51m 27s",
+      "author": {
+        "id": "764324864123207710",
+        "name": "brian_odonnell",
+        "discriminator": "7805",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/764324864123207710/d548c663300b28313e6fd34cb5c5ece0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "who is joseph daelee - 7405p on Twitch",
+          "url": "https://www.twitch.tv/videos/774717577",
+          "timestamp": null,
+          "description": "7405p went live on Twitch. Catch up on their Tetris VOD now.",
+          "thumbnail": {
+            "url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/b8cf34cdf18930d13144_7405p_39542459725_1603060724//thumb/thumb0-640x360.jpg",
+            "width": 640,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    }
+  ],
+  "messageCount": 175
+}
