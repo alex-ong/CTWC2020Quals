@@ -251,7 +251,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD: https://www.twitch.tv/videos/769212826\nName: BWG Oeuf\nTwitch: OeufMeansEgg\nSubmitted Games:\n912,389 - times will be here soon\n709,081 - \n586,144 -",
+      "content": "VOD: https://www.twitch.tv/videos/769212826\nName: BWG Oeuf\nTwitch: OeufMeansEgg\nSubmitted Games:\n912,389 00h000m00s",
       "author": {
         "id": "318164659251445761",
         "name": "OeufMeansEgg",
@@ -517,7 +517,7 @@
       "timestampEdited": "2020-10-14T23:06:41.898+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD : https://www.twitch.tv/videos/770376131\nName : Chris\nTwitch : CBrady79\nSubmitting Games : 692,583 (1:28:06); 692,495 (59:50); 690,073 (1:20:31)",
+      "content": "VOD : https://www.twitch.tv/videos/770376131\nName : Chris\nTwitch : CBrady79\nSubmitting Games :\n 692 583 (1:28:06)\n 692,495 (59:50)\n 690,073 (1:20:31)",
       "author": {
         "id": "756399374204010516",
         "name": "CSBrady",
@@ -631,7 +631,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/mobuco/v/770537138\nName: Buuucoooo\nTwitch: mobuco\nSubmitting Games:\n894 474 - 01h 18m 25s\n640 347 - 01h 06m 25s\n621 887 - 00h 47m 15s",
+      "content": "VOD:https://www.twitch.tv/mobuco/v/770537138\nName: Buuucoooo\nTwitch: mobuco\nSubmitting Games:\n894 474 - 01h 18m 25s\n640 347 - 01h 06m 25s\n621 887 - 00h 47m 15s",
       "author": {
         "id": "350438660291821578",
         "name": "mobuco",
@@ -650,7 +650,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/neighlles/v/770328187\nName: neighlles\nTwitch: neighlles\nSubmitting Games:\n877 640 - 02h 10m 25s\n784 320 - 01h 12m 46s\n748 420 - 02h 01m 00s",
+      "content": "VOD:https://www.twitch.tv/neighlles/v/770328187\nName: neighlles\nTwitch: neighlles\nSubmitting Games:\n877 640 - 02h 10m 25s\n784 320 - 01h 12m 46s\n748 420 - 02h 01m 00s",
       "author": {
         "id": "152934458155204609",
         "name": "neighlles",
@@ -783,7 +783,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD: https://www.twitch.tv/videos/771549651                          Name: Drybones                                                                                     Twitch: drybonedaniel                                                                           566560- 00h20m7s                                                                              551861- 00h45m19s                                                                              534022-01h10m-31s",
+      "content": "VOD: https://www.twitch.tv/videos/771549651\nName: Drybones\nTwitch: drybonedaniel\n566560 00h20m7s",
       "author": {
         "id": "414986660204249090",
         "name": "DryBoneDaniel",
@@ -878,7 +878,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/oldtapp3r/v/771086926\nName: Leo\nTwitch: oldtapp3r\nSubmitting Games:\n720 520 - 01h 21m 12s\n704 700 - 00h 28m 53s\n659 048 - 00h 38m 00s",
+      "content": "VOD:https://www.twitch.tv/oldtapp3r/v/771086926\nName: Leo\nTwitch: oldtapp3r\nSubmitting Games:\n720 520 - 01h 21m 12s\n704 700 - 00h 28m 53s\n659 048 - 00h 38m 00s",
       "author": {
         "id": "750166085621514281",
         "name": "oldTapp3r",
@@ -973,7 +973,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/mitolex/v/771104685\nName: Mitolex\nTwitch: Mitolex\nSubmitting Games:\n667 029 - 00h 55m 20s\n645 901 - 02h 05m 29s\n595 361 - 01h 44m 39s",
+      "content": "VOD:https://www.twitch.tv/mitolex/v/771104685\nName: Mitolex\nTwitch: Mitolex\nSubmitting Games:\n667 029 - 00h 55m 20s\n645 901 - 02h 05m 29s\n595 361 - 01h 44m 39s",
       "author": {
         "id": "266882470216073217",
         "name": "Mitolex",
@@ -1116,7 +1116,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD: https://www.twitch.tv/videos/772350880\nName: SorenPaul\nTwitch: redshirttheory\nSubmitted Games:\n1| 691400 @ 51m 12\n2| 638832 @ 2h 05m\n3| 623933 @ 1h 35m",
+      "content": "VOD: https://www.twitch.tv/videos/772350880\nName: SorenPaul\nTwitch: redshirttheory\nSubmitted Games:\n691400 00h 51m 12s",
       "author": {
         "id": "565658868739342336",
         "name": "redshirttheory",
@@ -1410,7 +1410,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/oscargodinez7/v/771858830\nhttps://www.twitch.tv/oscargodinez7/v/771867538\n(Note: There are 2 VODS, the first VOD is the verification procedures)\nName: Oscar\nTwitch: oscargodinez7\nSubmitting Games:\n709 649 - 01h 05m 05s (There was a visual glitch 01h 13m 58s)\n663 081 - 00h 36m 10s\n623 100 - 00h 22m 40s",
+      "content": "VOD:https://www.twitch.tv/oscargodinez7/v/771858830\nhttps://www.twitch.tv/oscargodinez7/v/771867538\n(Note: There are 2 VODS, the first VOD is the verification procedures)\nName: Oscar\nTwitch: oscargodinez7\nSubmitting Games:\n709 649 - 01h 05m 05s (There was a visual glitch 01h 13m 58s)\n663 081 - 00h 36m 10s\n623 100 - 00h 22m 40s",
       "author": {
         "id": "741221741703200768",
         "name": "oscar godinez",
@@ -1467,7 +1467,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/mecex17/v/772536178\nName: Mecex\nTwitch: mecex17\nSubmitting Games:\n750 190 - 01h 49m 04s\n664 803 - 01h 59m 19s\n611 280 - 01h 16m 44s",
+      "content": "VOD:https://www.twitch.tv/mecex17/v/772536178\nName: Mecex\nTwitch: mecex17\nSubmitting Games:\n750 190 - 01h 49m 04s\n664 803 - 01h 59m 19s\n611 280 - 01h 16m 44s",
       "author": {
         "id": "337690418286297088",
         "name": "Mecex",
@@ -1562,7 +1562,7 @@
       "timestampEdited": "2020-10-17T22:40:40.709+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD : https://www.twitch.tv/videos/772862415\nName : DLo\nTwitch : its_dlo\nSubmitting Game:\n689 200.......... - 00h 28m 00s",
+      "content": "VOD : https://www.twitch.tv/videos/772862415\nName : DLo\nTwitch : its_dlo\nSubmitting Game:\n689 200 00h 28m 00s",
       "author": {
         "id": "509567820120719380",
         "name": "DLo",
@@ -1600,7 +1600,7 @@
       "timestampEdited": "2020-10-17T21:52:01.297+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/joshualtolles/v/772497886\nName: Joshua\nTwitch: JoshuaLTolles\nSubmitting Games:\n962 700 - 01h 35m 22s\n921 920 - 02h 19m 33s\n735 180 - 00h 36m 58s",
+      "content": "VOD:https://www.twitch.tv/joshualtolles/v/772497886\nName: Joshua\nTwitch: JoshuaLTolles\nSubmitting Games:\n962 700 - 01h 35m 22s\n921 920 - 02h 19m 33s\n735 180 - 00h 36m 58s",
       "author": {
         "id": "400078285348012044",
         "name": "Shuram Gudatetris (UTC -5)",
@@ -1733,7 +1733,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/classicvomce/v/771676185\nName: Vince\nTwitch: classicvomce\nSubmitting Games:\n726 092 - 00h 33m 40s\n688 492 - 00h 24m 46s\n558 520 - 01h 41m 43s",
+      "content": "VOD:https://www.twitch.tv/classicvomce/v/771676185\nName: Vince\nTwitch: classicvomce\nSubmitting Games:\n726 092 - 00h 33m 40s\n688 492 - 00h 24m 46s\n558 520 - 01h 41m 43s",
       "author": {
         "id": "403038535185072130",
         "name": "CTWCvince",
@@ -1980,7 +1980,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "https://www.twitch.tv/videos/773849843\nName: japorto\nTwitch: japorto\nSubmitting games:\n724,984 - 01h 48m 30s\n611,232 - 02h 07m 45s\n575,780 - 01h 00m 20s",
+      "content": "VOD:https://www.twitch.tv/videos/773849843\nName: japorto\nTwitch: japorto\nSubmitting games:\n724984 01h 48m 30s\n611232 02h 07m 45s\n575,780 - 01h 00m 20s",
       "author": {
         "id": "218969840495362049",
         "name": "japorto",
@@ -2265,7 +2265,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD : https://www.twitch.tv/videos/774273116\nName : Rafal\nTwitch : TetrisMasterRafal\nSubmitting Games :\n565\u0027680 - 1:22:13\n514\u0027355 - 1:01:39\n491\u0027157 - 2:10:16",
+      "content": "VOD : https://www.twitch.tv/videos/774273116\nName : Rafal\nTwitch : TetrisMasterRafal\nSubmitting Games :\n565680 01h22m13s",
       "author": {
         "id": "573590364380856345",
         "name": "TetrisMasterRafa\u0142",
@@ -2360,7 +2360,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "As I had many multiple console malfunctions during my qual, the VODS provided will need some explanation.\nHARDWARE VERIFICATION VOD: https://www.twitch.tv/videos/774653062\nPART 1 VOD: https://www.twitch.tv/videos/774657588\nPART 2 VOD: https://www.twitch.tv/videos/774663548\nThe first VOD provides the hardware check for my NES. The first part VOD shows the multiple malfunctions that occurred from the timer running from 0 to 47 minutes. At the start of the 2nd part, I was given permission by Chris to restart the timer at 30 mins due to lost time from issues. I wasn\u0027t able to put the timer back at 30 mins, so I instead ended when the timer passes 2 hours, 17 minutes. There was another malfunction at 55 minutes, of which there is an extended gap of time between that malfunction, and the next restart. A significant proportion was cut. Thankfully, no further malfunction occurred. All submitted games are from the 2nd part VOD. Local recorded files available upon demand by a judge.\nName: Scamper\nTwitch: scamper9\nSubmitting Games:\n843,360 - https://www.twitch.tv/videos/774663548?t=1h19m13s\n620,160 - https://www.twitch.tv/videos/774663548?t=1h5m40s\n612,980 - https://www.twitch.tv/videos/774663548?t=2h14m47s",
+      "content": "VOD:https://www.twitch.tv/videos/774663548\nName: Scamper\nTwitch: scamper9\nSubmitting Games:\n843,360 01h19m13s",
       "author": {
         "id": "229317722243203072",
         "name": "Scamper9",
@@ -2455,7 +2455,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VODS: \n1) https://www.twitch.tv/videos/774597606\n2) https://www.twitch.tv/videos/774677538\nName: Ben Mullen\nTwitch: benmullen297\nSubmitting games:\n793027 - 21:03 VOD 2\n731721 - 1:01:05 VOD 1\n718721 - 30:02  VOD 2",
+      "content": "VOD:https://www.twitch.tv/videos/774677538\nName: Ben Mullen\nTwitch: benmullen297\nSubmitting games:\n793027 00h21m03s",
       "author": {
         "id": "244466063490678794",
         "name": "Ben",
@@ -2512,83 +2512,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD: https://www.twitch.tv/videos/774569486",
-      "author": {
-        "id": "661234456438243341",
-        "name": "crafteekim",
-        "discriminator": "2988",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
-      },
-      "attachments": [],
-      "embeds": [],
-      "reactions": []
-    },
-    {
-      "id": "767533256198324264",
-      "type": "Default",
-      "timestamp": "2020-10-18T23:43:08.356+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Name: Kim",
-      "author": {
-        "id": "661234456438243341",
-        "name": "crafteekim",
-        "discriminator": "2988",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
-      },
-      "attachments": [],
-      "embeds": [],
-      "reactions": []
-    },
-    {
-      "id": "767533285160386612",
-      "type": "Default",
-      "timestamp": "2020-10-18T23:43:15.261+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Twitch Name: crafteekim",
-      "author": {
-        "id": "661234456438243341",
-        "name": "crafteekim",
-        "discriminator": "2988",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
-      },
-      "attachments": [],
-      "embeds": [],
-      "reactions": []
-    },
-    {
-      "id": "767533315565027350",
-      "type": "Default",
-      "timestamp": "2020-10-18T23:43:22.51+00:00",
-      "timestampEdited": "2020-10-19T01:45:44.519+00:00",
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Submitting Games:",
-      "author": {
-        "id": "661234456438243341",
-        "name": "crafteekim",
-        "discriminator": "2988",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
-      },
-      "attachments": [],
-      "embeds": [],
-      "reactions": []
-    },
-    {
-      "id": "767533422888353802",
-      "type": "Default",
-      "timestamp": "2020-10-18T23:43:48.098+00:00",
-      "timestampEdited": "2020-10-19T02:53:20.766+00:00",
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "595,571- 1:28:51\n530,511- 59:36\n471,451- 46:28",
+      "content": "VOD: https://www.twitch.tv/videos/774569486\nName: Kim\nTwitch: crafteekim\n595571 01h28m51s\n",
       "author": {
         "id": "661234456438243341",
         "name": "crafteekim",
@@ -2636,7 +2560,7 @@
       "timestampEdited": "2020-10-19T13:35:07.032+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "I had some internet problems during my run so the links for my highscore games will take you to different vods, sorry about that, I\u0027ll try to fix my internet for the tournament if I make it\nHardware Verification and a little gameplay: https://www.twitch.tv/videos/774607702\nPart 1 VOD: https://www.twitch.tv/videos/774647724\nPart 2 VOD: https://www.twitch.tv/videos/774659726\nPart 3 VOD: https://www.twitch.tv/videos/774709650\nName: Benjy\nTwitch: b3njy_b0y\nSubmitting Games:\n977,280 - 23:38 Part 2 VOD\n895,740 - 9:50 Part 3 VOD\n808,840 - 30:09 Part 3 VOD",
+      "content": "VOD: https://www.twitch.tv/videos/774659726\nName: Benjy\nTwitch: b3njy_b0y\nSubmitting Games:\n977,280 - 00:23:38",
       "author": {
         "id": "650378393501696030",
         "name": "Benjy",
@@ -2674,7 +2598,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/janutzska/v/774410849\nName: Jani\nTwitch: Janutzska\nSubmitting Games:\n922 782 - 01h 04m 00s\n840 880 - 01h 16m 21s\n612 880 - 02h 12m 53s",
+      "content": "VOD:https://www.twitch.tv/janutzska/v/774410849\nName: Jani\nTwitch: Janutzska\nSubmitting Games:\n922 782 - 01h 04m 00s\n840 880 - 01h 16m 21s\n612 880 - 02h 12m 53s",
       "author": {
         "id": "187729169491296257",
         "name": "janutzska",
@@ -2769,7 +2693,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/videos/774684616\nName: Feoden\nTwitch: your__emperor\nSubmitting Games:\n985 380 - 00h 40m 55s\n801 120 - 01h 53m 02s\n727 280 - 02h 21m 09s",
+      "content": "VOD:https://www.twitch.tv/videos/774684616\nName: Feoden\nTwitch: your__emperor\nSubmitting Games:\n985 380 - 00h 40m 55s\n801 120 - 01h 53m 02s\n727 280 - 02h 21m 09s",
       "author": {
         "id": "310175524775264256",
         "name": "Your_Emperor",
@@ -2807,7 +2731,7 @@
       "timestampEdited": "2020-10-19T01:15:45.034+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "https://discord.com/channels/@me/767555691593596949/767555718949109771 VOD:\nhttp://www.twitch.tv/rookoutrogue/v/774593172\nName: Matt M.\nTwitch: RookoutRogue\nSubmitting Games:\n986 655 - 03h 03m 38s\n902 965 - 03h 33m 18s\n854 882 - 02h 03m 47s",
+      "content": "VOD:http://www.twitch.tv/rookoutrogue/v/774593172\nName: Matt M.\nTwitch: RookoutRogue\nSubmitting Games:\n986 655 - 03h 03m 38s\n902 965 - 03h 33m 18s\n854 882 - 02h 03m 47s",
       "author": {
         "id": "201818633356181504",
         "name": "RookoutRogue",
@@ -2931,7 +2855,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/b14nk17/v/774692868\nName: B14NK\nTwitch: B14nk17\nSubmitting Games:\n975 240 - 02h 17m 14s\n886 860 - 01h 23m 26s\n858 720 - 02h 30m 49s",
+      "content": "VOD:https://www.twitch.tv/b14nk17/v/774692868\nName: B14NK\nTwitch: B14nk17\nSubmitting Games:\n975 240 - 02h 17m 14s\n886 860 - 01h 23m 26s\n858 720 - 02h 30m 49s",
       "author": {
         "id": "188863367195262976",
         "name": "B14NK",
@@ -3007,7 +2931,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "alright fine... as embarrassed as I am at this, I suppose it would be pretty dumb to pass up the chance to play in ANY CTWC tournament, especially with the chance of playing some legends. Big thanks to Wingfryer for putting this together for me (and others):\n\nVOD:\nhttps://www.twitch.tv/themistervalor/v/770810518\nName: VALOR\nTwitch: TheMisterValor\nSubmitting Games:\n817 640 - 00h 37m 45s\n800 320 - 00h 58m 30s\n770 060 - 02h 12m 05s",
+      "content": "VOD:https://www.twitch.tv/themistervalor/v/770810518\nName: VALOR\nTwitch: TheMisterValor\nSubmitting Games:\n817 640 - 00h 37m 45s\n800 320 - 00h 58m 30s\n770 060 - 02h 12m 05s",
       "author": {
         "id": "296773920667861002",
         "name": "TheMisterValor",
@@ -3026,7 +2950,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/nighttetris/v/774608755\nName: Night\nTwitch: nighttetris\nSubmitting Games:\n638 680 - 02h 22m 16s\n570 680 - 01h 12m 08s\n560 960 - 02h 11m 30s\n",
+      "content": "VOD:https://www.twitch.tv/nighttetris/v/774608755\nName: Night\nTwitch: nighttetris\nSubmitting Games:\n638 680 - 02h 22m 16s\n570 680 - 01h 12m 08s\n560 960 - 02h 11m 30s\n",
       "author": {
         "id": "654080410426540042",
         "name": "night",
@@ -3045,7 +2969,7 @@
       "timestampEdited": "2020-10-19T14:46:17.324+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Thanks to WingFryer \uD83D\uDE42 . I really didn\u0027t want to submit bc I did terribly and didn\u0027t even get into silver bracket.\n\nVOD:\nhttps://www.twitch.tv/breakfastnoodles/v/773676734\nName: Noodles\nTwitch: BreakfastNoodles\nSubmitting Games:\n688 660 - 02h 16m 56s\n670 420 - 02h 05m 55s\n657 120 - 01h 58m 10s",
+      "content": "Thanks to WingFryer \uD83D\uDE42 . I really didn\u0027t want to submit bc I did terribly and didn\u0027t even get into silver bracket.\n\nVOD:https://www.twitch.tv/breakfastnoodles/v/773676734\nName: Noodles\nTwitch: BreakfastNoodles\nSubmitting Games:\n688 660 - 02h 16m 56s\n670 420 - 02h 05m 55s\n657 120 - 01h 58m 10s",
       "author": {
         "id": "568913964629491740",
         "name": "BreakfastNoodles",
@@ -3064,7 +2988,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/rizz1010/v/773480932\nName: Frank\nTwitch: rizz1010\nSubmitting Games:\n690 080 - 01h 38m 18s\n604 716 - 01h 49m 39s\n599 161 - 01h 16m 46s",
+      "content": "VOD:https://www.twitch.tv/rizz1010/v/773480932\nName: Frank\nTwitch: rizz1010\nSubmitting Games:\n690 080 - 01h 38m 18s\n604 716 - 01h 49m 39s\n599 161 - 01h 16m 46s",
       "author": {
         "id": "507650682384285707",
         "name": "rizz1010",

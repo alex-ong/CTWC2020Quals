@@ -162,15 +162,15 @@ if __name__ == '__main__':
         
     to_download = []
     num_max = 0
+    quals.sort(key=lambda x: x.games[0].score, reverse=True)
     for qual in quals:
-        for game in qual.games:
-            if int(game.score) == 999999:                
-                to_download.append((qual.twitch, qual.vod))
-                break
-            
-    #downloaders
-    for pair in to_download:
-        print(pair)
+        if qual.vod is None or len(qual.vod) < 10 or len(qual.games) == 0:
+            print ("SHIT")
+            print(qual)
+            input()
+        if len(qual.games) >= 1 and qual.games[0].score != 999999:            
+            data = (qual.twitch, qual.vod, qual.games[0].score)            
+            print (data)
         
-            
+    
         
