@@ -151,9 +151,7 @@ if __name__ == '__main__':
         data = json.load(f)
 
     quals = []
-    
-    skip_to = 'TheMisterValor'
-    skip = True
+        
     for item in data["messages"]:
         content = item["content"]
         lines = content.split("\n")
@@ -167,10 +165,12 @@ if __name__ == '__main__':
     for qual in quals:
         for game in qual.games:
             if int(game.score) == 999999:                
-                print(qual.player)
-                num_max += 1
-                
-    print ("num_max", num_max)
+                to_download.append((qual.twitch, qual.vod))
+                break
+            
+    #downloaders
+    for pair in to_download:
+        print(pair)
         
             
         

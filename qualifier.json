@@ -441,7 +441,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttp://www.twitch.tv/totalradnes/v/769657530\nName: Quaid\nTwitch: TotalRadNES\nSubmitting Games:\n999 999 - 03h 01m 55s\n984 581 - 02h 32m 15s\n950 866 - 01h 15m 35s",
+      "content": "VOD:http://www.twitch.tv/totalradnes/v/769657530\nName: Quaid\nTwitch: TotalRadNES\nSubmitting Games:\n999 999 - 03h 01m 55s\n984 581 - 02h 32m 15s\n950 866 - 01h 15m 35s",
       "author": {
         "id": "757768654489255956",
         "name": "Quaid",
@@ -2607,7 +2607,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/brodindamp/v/773670224\nName: Allen\nTwitch: brodindamp\nSubmitting Games:\n999 999 - 00h 56m 02s\n999 999 - 01h 05m 05s\n999 999 - 02h 18m 43s\n968 870 - 01h 21m 07s\n\nThank you Wingfryer.",
+      "content": "VOD:https://www.twitch.tv/brodindamp/v/773670224\nName: Allen\nTwitch: brodindamp\nSubmitting Games:\n999 999 - 00h 56m 02s\n999 999 - 01h 05m 05s\n999 999 - 02h 18m 43s\n968 870 - 01h 21m 07s\n\nThank you Wingfryer.",
       "author": {
         "id": "316745320853929984",
         "name": "brodindamp",
@@ -2712,7 +2712,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/supasayajin/v/774603047\nName: Larry Long\nTwitch: SuPaSaYaJiN\nSubmitting Games:\n999 999 - 01h 51m 34s\n999 999 - 03h 07m 02s\n964 768 - 02h 42m 00s",
+      "content": "VOD:https://www.twitch.tv/supasayajin/v/774603047\nName: Larry Long\nTwitch: SuPaSaYaJiN\nSubmitting Games:\n999 999 - 01h 51m 34s\n999 999 - 03h 07m 02s\n964 768 - 02h 42m 00s",
       "author": {
         "id": "175716124514582530",
         "name": "SuPa",
@@ -2731,7 +2731,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/videos/774612871\nName: Cheez\nTwitch: CheeZ_Fish\nSubmitting Games:\n999,999 - 01h 43m 16s\n912,069 - 02h 15m 42s",
+      "content": "VOD:https://www.twitch.tv/videos/774612871\nName: Cheez\nTwitch: CheeZ_Fish\nSubmitting Games:\n999,999 - 01h 43m 16s\n912,069 - 02h 15m 42s",
       "author": {
         "id": "529525071392407570",
         "name": "CheeZed_Fish",
@@ -2826,7 +2826,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "VOD:\nhttps://www.twitch.tv/nubbinsgoody/v/769412565\nName : NibNubs\nTwitch : NubbinsGoody\nSubmitting Games:\n999 999 - 02h 22m 45s\n956 020 - 01h 12m 40s\n937 320 - 01h 42m 25s",
+      "content": "VOD:https://www.twitch.tv/nubbinsgoody/v/769412565\nName : NibNubs\nTwitch: NubbinsGoody\nSubmitting Games:\n999 999 - 02h 22m 45s\n956 020 - 01h 12m 40s\n937 320 - 01h 42m 25s",
       "author": {
         "id": "336605180030353419",
         "name": "NubbinsGoody",
